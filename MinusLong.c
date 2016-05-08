@@ -13,18 +13,36 @@ void LeftTrim (char str[ ]);
 int tag = 0;
 void main ( )
 {
-   char a[N+1] = {0}, b[N+1] = {0}, c[N+2];
+	int i;
+	char a[N+1] = {0}, b[N+1] = {0}, c[N+2], d[N+1] = {0};
 
-   printf ("a = ");
-   while (strlen (a) == 0)
-      GetNumberStr (a);
-   printf ("\nb = ");
-   while (strlen (b) == 0)
-      GetNumberStr (b);
+    printf ("a = ");
+    while (strlen (a) == 0)
+       GetNumberStr (a);
+    printf ("\nb = ");
+    while (strlen (b) == 0)
+       GetNumberStr (b);
+    
+	if(strlen(a)>strlen(b))
+	{
+		for(i=0;i<(strlen(a)-strlen(b));i++)
+			d[i]='0';
+		strcat(d,b);
+	    strcpy(b,d);
+	}
+    
+	if(strlen(a)<strlen(b))
+	{
+		for(i=0;i<(strlen(b)-strlen(a));i++)
+			d[i]='0';
+		strcat(d,a);
+	    strcpy(a,d);
+	}
+	
 
-   MinusNumberStr (a, b, c);
-   printf ("\na + b = %s \n", c);
-   getchar();
+    MinusNumberStr (a, b, c);
+    printf ("\na - b = %s \n", c);
+    getchar();
 }
 
 void GetNumberStr (char s[ ])
