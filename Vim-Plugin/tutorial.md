@@ -27,4 +27,6 @@ function! MyFunction()
 python << EOF
 
 --->Write your Python code here<---
+
+EOF
 ```
