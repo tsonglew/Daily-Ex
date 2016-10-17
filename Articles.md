@@ -1,0 +1,5 @@
+* [Python 标准库 urllib2 的使用细节](http://zhuoqiang.me/python-urllib2-usage.html)
+* [Redis 内存使用优化与存储](http://blog.jobbole.com/106466/)
+* [Learning the vi Editor/Vim/VimL Script language](https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/VimL_Script_language)
+* [为什么会选择 make，cmake 之流来控制程序编译](https://www.zhihu.com/question/51607490#answer-46158198)
+* [JavaScript运算符：== VS. ===](http://web.jobbole.com/88186/)
