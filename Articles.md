@@ -2,6 +2,7 @@
 
 * [Python 标准库 urllib2 的使用细节](http://zhuoqiang.me/python-urllib2-usage.html)
 * [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html#the-future-module)
+* [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
 
 ### About HTTP
