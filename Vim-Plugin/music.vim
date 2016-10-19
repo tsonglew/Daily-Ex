@@ -15,7 +15,7 @@ start_time=time.clock()
 while True:
     now_time=time.clock()
     if now_time > start_time+5:
-        os.system('pkill -9 vim')
+        pyglet.app.exit()
         break
 
 EOF

@@ -4,6 +4,8 @@
 * [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html#the-future-module)
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Playing music with Python](http://guzalexander.com/2012/08/17/playing-a-sound-with-python.html)
+* [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
+* [What is a “callable” in Python?](http://stackoverflow.com/questions/111234/what-is-a-callable-in-python)
 
 
 ### About HTTP
