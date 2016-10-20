@@ -5,6 +5,7 @@
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Playing music with Python](http://guzalexander.com/2012/08/17/playing-a-sound-with-python.html)
 * [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
+* [深刻理解Python中的元类(metaclass)](http://blog.jobbole.com/21351/)
 * [What is a “callable” in Python?](http://stackoverflow.com/questions/111234/what-is-a-callable-in-python)
 
 
