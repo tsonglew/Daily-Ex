@@ -15,6 +15,7 @@
 
 * [一次完整的 HTTP 请求过程](http://blog.jobbole.com/106632/)
 * [全栈必备 负载均衡](http://blog.jobbole.com/106851/)
+* [Difference between proxy server and reverse proxy server](http://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server/366212#366212)
 
 
 ### About DataBase
