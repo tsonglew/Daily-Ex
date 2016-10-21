@@ -1,5 +1,7 @@
 ### About Python
 
+* [Python 包管理工具解惑](http://python.jobbole.com/86466/)
+* [Python自动化面试必备 之 你真明白装饰器么?](http://python.jobbole.com/86632/)
 * [Python 标准库 urllib2 的使用细节](http://zhuoqiang.me/python-urllib2-usage.html)
 * [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html#the-future-module)
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
@@ -12,6 +14,7 @@
 ### About HTTP
 
 * [一次完整的 HTTP 请求过程](http://blog.jobbole.com/106632/)
+* [全栈必备 负载均衡](http://blog.jobbole.com/106851/)
 
 
 ### About DataBase
@@ -22,6 +25,7 @@
 ### About JavaScript
 
 * [JavaScript运算符：== VS. ===](http://web.jobbole.com/88186/)
+* [Arrays in JavaScript](http://www.2ality.com/2012/12/arrays.html)
 
 ### About Vim
 
@@ -37,6 +41,7 @@
 * [SQL 注入速查表](http://blog.jobbole.com/105860/)
 * [HTTPS 协议降级攻击原理](http://blog.jobbole.com/106792/)
 * [对称密码与公钥密码](http://js.walfud.com/cryptology/)
+* [漫画：如何用脚本抢月饼?](http://blog.jobbole.com/106676/)
 
 
 ### About Algorithms
