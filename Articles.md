@@ -11,8 +11,21 @@
 * [What is a “callable” in Python?](http://stackoverflow.com/questions/111234/what-is-a-callable-in-python)
 
 
+### About JavaScript
+
+* [JavaScript运算符：== VS. ===](http://web.jobbole.com/88186/)
+* [Arrays in JavaScript](http://www.2ality.com/2012/12/arrays.html)
+* [JavaScript原型详解](http://gold.xitu.io/post/57f336a9816dfa00568f300c)
+
+
+### About C/C++
+
+* [内存泄漏漫谈](http://tmq.qq.com/2016/10/memory-leak-rambling/)
+
+
 ### About HTTP
 
+* [Chrome扩展程序开发](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/Chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.md)
 * [一次完整的 HTTP 请求过程](http://blog.jobbole.com/106632/)
 * [全栈必备 负载均衡](http://blog.jobbole.com/106851/)
 * [Difference between proxy server and reverse proxy server](http://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server/366212#366212)
@@ -22,11 +35,6 @@
 
 * [Redis 内存使用优化与存储](http://blog.jobbole.com/106466/)
 
-
-### About JavaScript
-
-* [JavaScript运算符：== VS. ===](http://web.jobbole.com/88186/)
-* [Arrays in JavaScript](http://www.2ality.com/2012/12/arrays.html)
 
 ### About Vim
 
