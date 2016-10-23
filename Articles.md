@@ -23,12 +23,14 @@
 * [内存泄漏漫谈](http://tmq.qq.com/2016/10/memory-leak-rambling/)
 
 
-### About HTTP
+### About HTTP and Server-Side
 
 * [Chrome扩展程序开发](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/Chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.md)
 * [一次完整的 HTTP 请求过程](http://blog.jobbole.com/106632/)
 * [全栈必备 负载均衡](http://blog.jobbole.com/106851/)
 * [Difference between proxy server and reverse proxy server](http://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server/366212#366212)
+* [How does Https work?](http://www.songzhw.com/2016/09/13/how-does-https-work/)
+* [大型网站架构系列：负载均衡详解](http://mp.weixin.qq.com/s?__biz=MzAxNzMwOTQ0NA%3D%3D&mid=2653354620&idx=4&sn=8e6e02a94f614c18449244375b028418&chksm=8035d017b7425901e03ec5e008f066766904dc9371923101c15a80c065d6dd29c7c5ce135149)
 
 
 ### About DataBase
@@ -76,3 +78,4 @@
 * [坐在马桶上看算法（13）：堆—神奇的优先队列（下）](http://blog.jobbole.com/101620/)
 
 * [LZ77 压缩算法编码原理详解](http://blog.jobbole.com/106146/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+* [常见hash算法的原理](http://blog.jobbole.com/106733)/
