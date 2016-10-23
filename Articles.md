@@ -1,3 +1,6 @@
+[坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
+
+
 ### About Python
 
 * [Python 包管理工具解惑](http://python.jobbole.com/86466/)
@@ -9,6 +12,7 @@
 * [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
 * [深刻理解Python中的元类(metaclass)](http://blog.jobbole.com/21351/)
 * [What is a “callable” in Python?](http://stackoverflow.com/questions/111234/what-is-a-callable-in-python)
+* [Python中不尽如人意的断言Assertion](https://segmentfault.com/a/1190000007248161)
 
 
 ### About JavaScript
