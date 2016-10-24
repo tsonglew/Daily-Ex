@@ -13,6 +13,7 @@
 * [深刻理解Python中的元类(metaclass)](http://blog.jobbole.com/21351/)
 * [What is a “callable” in Python?](http://stackoverflow.com/questions/111234/what-is-a-callable-in-python)
 * [Python中不尽如人意的断言Assertion](https://segmentfault.com/a/1190000007248161)
+* [“史上最详细”的Python模拟登录新浪微博流程](https://zhuanlan.zhihu.com/p/23064000)
 
 
 ### About JavaScript
@@ -83,3 +84,4 @@
 
 * [LZ77 压缩算法编码原理详解](http://blog.jobbole.com/106146/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 * [常见hash算法的原理](http://blog.jobbole.com/106733)/
+* [Why should hash functions use a prime number modulus?](http://stackoverflow.com/questions/1145217/why-should-hash-functions-use-a-prime-number-modulus)
