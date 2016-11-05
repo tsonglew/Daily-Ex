@@ -28,6 +28,18 @@
 * [内存泄漏漫谈](http://tmq.qq.com/2016/10/memory-leak-rambling/)
 
 
+### About Go
+
+* [The Go Compiler](https://www.codeschool.com/blog/2016/10/05/the-go-compiler/)
+* [Why Go Is Not Good](http://yager.io/programming/go.html)
+* [Why Go?](https://www.codeschool.com/blog/2016/09/28/why-go/)
+
+
+### About Swift
+
+* [Swift 语言指南](http://dev.swiftguide.cn/)
+
+
 ### About HTTP and Server-Side
 
 * [Chrome扩展程序开发](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/Chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.md)
