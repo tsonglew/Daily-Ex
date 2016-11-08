@@ -55,6 +55,11 @@
 * [Redis 内存使用优化与存储](http://blog.jobbole.com/106466/)
 
 
+### About Linux
+
+* [Linux 技巧：让进程在后台可靠运行的几种方法](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/)
+
+
 ### About Vim
 
 * [vim tips and tricks](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html)
@@ -70,7 +75,9 @@
 * [HTTPS 协议降级攻击原理](http://blog.jobbole.com/106792/)
 * [对称密码与公钥密码](http://js.walfud.com/cryptology/)
 * [漫画：如何用脚本抢月饼?](http://blog.jobbole.com/106676/)
-
+* [验证码的前世今生（前世篇）](http://jaq.alibaba.com/community/art/show?articleid=548)
+* [验证码的前世今生（今生篇）](http://jaq.alibaba.com/community/art/show?articleid=582)
+* [Visual Representation of SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
 
 ### About Algorithms
 
@@ -97,3 +104,4 @@
 * [LZ77 压缩算法编码原理详解](http://blog.jobbole.com/106146/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 * [常见hash算法的原理](http://blog.jobbole.com/106733)/
 * [Why should hash functions use a prime number modulus?](http://stackoverflow.com/questions/1145217/why-should-hash-functions-use-a-prime-number-modulus)
+* [一些有趣的算法](https://yq.aliyun.com/articles/62867?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_7383)
