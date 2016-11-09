@@ -14,6 +14,7 @@
 * [What is a “callable” in Python?](http://stackoverflow.com/questions/111234/what-is-a-callable-in-python)
 * [Python中不尽如人意的断言Assertion](https://segmentfault.com/a/1190000007248161)
 * [“史上最详细”的Python模拟登录新浪微博流程](https://zhuanlan.zhihu.com/p/23064000)
+* [玩Python之HTTP代理](http://python.jobbole.com/86747/)
 
 
 ### About JavaScript
@@ -33,6 +34,7 @@
 * [The Go Compiler](https://www.codeschool.com/blog/2016/10/05/the-go-compiler/)
 * [Why Go Is Not Good](http://yager.io/programming/go.html)
 * [Why Go?](https://www.codeschool.com/blog/2016/09/28/why-go/)
+* [Things I Wish Someone Had Told Me About Golang](http://openmymind.net/Things-I-Wish-Someone-Had-Told-Me-About-Go/)
 
 
 ### About Swift
