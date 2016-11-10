@@ -11,7 +11,7 @@
   * [Playing music with Python](http://guzalexander.com/2012/08/17/playing-a-sound-with-python.html)
   * [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
   * [深刻理解Python中的元类(metaclass)](http://blog.jobbole.com/21351/)
-  * [What is a “callable” in Python?](http://stackoverflow.com/questions/111234/what-is-a-callable-in-python)
+  * [What is a "callable" in Python?](http://stackoverflow.com/questions/111234/what-is-a-callable-in-python)
   * [Python中不尽如人意的断言Assertion](https://segmentfault.com/a/1190000007248161)
   * [“史上最详细”的Python模拟登录新浪微博流程](https://zhuanlan.zhihu.com/p/23064000)
   * [玩Python之HTTP代理](http://python.jobbole.com/86747/)
@@ -86,11 +86,9 @@
 ### About Algorithms
 
   * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
-
   * [漫画算法：找出缺失的整数](http://blog.jobbole.com/106521/)
   * [漫画算法：辗转相除法是什么鬼？](http://blog.jobbole.com/106315/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
   * [漫画算法：如何判断链表有环？](http://blog.jobbole.com/106227/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
-
   * [坐在马桶上看算法（1）：桶排序](http://blog.jobbole.com/100361/)
   * [坐在马桶上看算法（2）：邻居好说话，冒泡排序](http://blog.jobbole.com/100378/)
   * [坐在马桶上看算法（3）：快速排序](http://blog.jobbole.com/100531/)
@@ -104,8 +102,7 @@
   * [坐在马桶上看算法（11）：二叉树](http://blog.jobbole.com/101391/)
   * [坐在马桶上看算法（12）：堆—神奇的优先队列（上）](http://blog.jobbole.com/101484/)
   * [坐在马桶上看算法（13）：堆—神奇的优先队列（下）](http://blog.jobbole.com/101620/)
-
   * [LZ77 压缩算法编码原理详解](http://blog.jobbole.com/106146/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
-  * [常见hash算法的原理](http://blog.jobbole.com/106733)/
+  * [常见hash算法的原理](http://blog.jobbole.com/106733/)
   * [Why should hash functions use a prime number modulus?](http://stackoverflow.com/questions/1145217/why-should-hash-functions-use-a-prime-number-modulus)
   * [一些有趣的算法](https://yq.aliyun.com/articles/62867?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_7383)
