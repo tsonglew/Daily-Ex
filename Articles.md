@@ -1,5 +1,7 @@
 [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
 
+  * [初学者如何从零学习人工智能？](http://blog.jobbole.com/107495/)
+
 
 ### About Python
 
@@ -35,6 +37,7 @@
   * [Why Go Is Not Good](http://yager.io/programming/go.html)
   * [Why Go?](https://www.codeschool.com/blog/2016/09/28/why-go/)
   * [Things I Wish Someone Had Told Me About Golang](http://openmymind.net/Things-I-Wish-Someone-Had-Told-Me-About-Go/)
+  * [Go语言Interface漫谈](http://www.infoq.com/cn/articles/go-interface-talk)
 
 
 ### About Swift
