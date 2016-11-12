@@ -29,6 +29,9 @@
 ### About C/C++
 
   * [内存泄漏漫谈](http://tmq.qq.com/2016/10/memory-leak-rambling/)
+  * [判断链表是否有环](http://blog.jobbole.com/107601/)
+  * [关于 std::set/std::map 的几个为什么](http://blog.jobbole.com/107647/)
+
 
 
 ### About Go
@@ -59,11 +62,13 @@
 ### About DataBase
 
   * [Redis 内存使用优化与存储](http://blog.jobbole.com/106466/)
+  * [MySQL 分区表](http://blog.jobbole.com/107662/)
 
 
 ### About Linux
 
   * [Linux 技巧：让进程在后台可靠运行的几种方法](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/)
+  * [linux中强大且常用命令：find、grep](http://blog.jobbole.com/107458/)
 
 
 ### About Vim
