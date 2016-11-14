@@ -1,9 +1,11 @@
 package main
 
-import "fmt"
+import (
+    "fmt";
+)
 
 func main() {
-    slice1 := make([]int, 3)
-    fmt.Println(slice1)
-    arr := {1}
+    i := 0
+    j := 0i
+    fmt.Println(i+j) // mismatched types int and complex128
 }

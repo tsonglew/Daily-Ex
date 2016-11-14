@@ -1,6 +1,8 @@
 [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
 
   * [初学者如何从零学习人工智能？](http://blog.jobbole.com/107495/)
+  * [Google 开源项目风格指南](http://zh-google-styleguide.readthedocs.io/en/latest/contents/)
+  * [Regular Expression Language](https://msdn.microsoft.com/en-us/library/az24scfc.aspx)
 
 
 ### About Python
@@ -31,7 +33,6 @@
   * [内存泄漏漫谈](http://tmq.qq.com/2016/10/memory-leak-rambling/)
   * [判断链表是否有环](http://blog.jobbole.com/107601/)
   * [关于 std::set/std::map 的几个为什么](http://blog.jobbole.com/107647/)
-
 
 
 ### About Go
