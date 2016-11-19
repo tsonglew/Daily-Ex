@@ -19,13 +19,7 @@
   * [Python中不尽如人意的断言Assertion](https://segmentfault.com/a/1190000007248161)
   * [“史上最详细”的Python模拟登录新浪微博流程](https://zhuanlan.zhihu.com/p/23064000)
   * [玩Python之HTTP代理](http://python.jobbole.com/86747/)
-
-
-### About JavaScript
-
-  * [JavaScript运算符：== VS. ===](http://web.jobbole.com/88186/)
-  * [Arrays in JavaScript](http://www.2ality.com/2012/12/arrays.html)
-  * [JavaScript原型详解](http://gold.xitu.io/post/57f336a9816dfa00568f300c)
+  * [Python: Declaring Dynamic Attributes](http://amir.rachum.com/blog/2016/10/05/python-dynamic-attributes/)
 
 
 ### About C/C++
@@ -48,6 +42,13 @@
 
   * [Trip to iOS](https://github.com/iOS-Ex/trip-to-iOS)
   * [Swift 语言指南](http://dev.swiftguide.cn/)
+
+
+### About JavaScript
+
+  * [JavaScript运算符：== VS. ===](http://web.jobbole.com/88186/)
+  * [Arrays in JavaScript](http://www.2ality.com/2012/12/arrays.html)
+  * [JavaScript原型详解](http://gold.xitu.io/post/57f336a9816dfa00568f300c)
 
 
 ### About HTTP and Server-Side
