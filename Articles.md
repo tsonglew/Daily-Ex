@@ -116,3 +116,5 @@
   * [常见hash算法的原理](http://blog.jobbole.com/106733/)
   * [Why should hash functions use a prime number modulus?](http://stackoverflow.com/questions/1145217/why-should-hash-functions-use-a-prime-number-modulus)
   * [一些有趣的算法](https://yq.aliyun.com/articles/62867?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_7383)
+  * [计算机科学中最重要的32个算法](http://mp.weixin.qq.com/s?__biz=MzA5ODUxOTA5Mg==&mid=2652550555&idx=1&sn=1fd1ced6bc1bb6d58bd015b39e6cc706&chksm=8b7e44c0bc09cdd68f5c4efa783da89f8413769c557067b1c00c3328cd95976f380cac496e56&mpshare=1&scene=23&srcid=1121gzHeqkJil2nmKRUFV36g#rd)
+
