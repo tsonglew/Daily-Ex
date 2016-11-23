@@ -27,15 +27,17 @@
   * [内存泄漏漫谈](http://tmq.qq.com/2016/10/memory-leak-rambling/)
   * [判断链表是否有环](http://blog.jobbole.com/107601/)
   * [关于 std::set/std::map 的几个为什么](http://blog.jobbole.com/107647/)
+  * [有趣的问题：C 的表达式 x == x，何时为假?](http://blog.jobbole.com/107901/)
 
 
 ### About Go
 
   * [The Go Compiler](https://www.codeschool.com/blog/2016/10/05/the-go-compiler/)
-  * [Why Go Is Not Good](http://yager.io/programming/go.html)
   * [Why Go?](https://www.codeschool.com/blog/2016/09/28/why-go/)
+  * [Why Go Is Not Good](http://yager.io/programming/go.html)
   * [Things I Wish Someone Had Told Me About Golang](http://openmymind.net/Things-I-Wish-Someone-Had-Told-Me-About-Go/)
   * [Go语言Interface漫谈](http://www.infoq.com/cn/articles/go-interface-talk)
+  * [如何避开 Go 中的各种陷阱](http://newt0n.github.io/2016/11/07/%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80-Go-%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E9%99%B7%E9%98%B1/)
 
 
 ### About Swift
@@ -71,6 +73,10 @@
 
   * [Linux 技巧：让进程在后台可靠运行的几种方法](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/)
   * [linux中强大且常用命令：find、grep](http://blog.jobbole.com/107458/)
+  * [SSH原理与运用（一）：远程登录](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)
+  * [SSH原理与运用（二）：远程操作与端口转发](http://www.ruanyifeng.com/blog/2011/12/ssh_port_forwarding.html)
+  * [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
+  * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 
 
 ### About Vim
