@@ -104,7 +104,7 @@
   * [What is a Digital Signature?](http://www.youdzone.com/signature.html)
   * [RSA算法原理（一）](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
   * [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
-  * [Why RSA can't handle numbers above 76?](http://crypto.stackexchange.com/questions/3798/why-rsa-cant-handle-numbers-above-76)
+  * [Why RSA can't handle numbers above modulus?](http://crypto.stackexchange.com/questions/3798/why-rsa-cant-handle-numbers-above-76)
 
 
 ### About Algorithms
