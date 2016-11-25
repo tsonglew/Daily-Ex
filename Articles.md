@@ -3,6 +3,7 @@
   * [初学者如何从零学习人工智能？](http://blog.jobbole.com/107495/)
   * [Google 开源项目风格指南](http://zh-google-styleguide.readthedocs.io/en/latest/contents/)
   * [Regular Expression Language](https://msdn.microsoft.com/en-us/library/az24scfc.aspx)
+  * [Math ∩ Programming](https://jeremykun.com/)
 
 
 ### About Python
@@ -20,6 +21,7 @@
   * [“史上最详细”的Python模拟登录新浪微博流程](https://zhuanlan.zhihu.com/p/23064000)
   * [玩Python之HTTP代理](http://python.jobbole.com/86747/)
   * [Python: Declaring Dynamic Attributes](http://amir.rachum.com/blog/2016/10/05/python-dynamic-attributes/)
+  * [对 Python Socket 编程的初探](http://python.jobbole.com/86837/)
 
 
 ### About C/C++
@@ -51,6 +53,7 @@
   * [JavaScript运算符：== VS. ===](http://web.jobbole.com/88186/)
   * [Arrays in JavaScript](http://www.2ality.com/2012/12/arrays.html)
   * [JavaScript原型详解](http://gold.xitu.io/post/57f336a9816dfa00568f300c)
+  * [Essential Electron](http://jlord.us/essential-electron/)
 
 
 ### About HTTP and Server-Side
@@ -67,6 +70,7 @@
 
   * [Redis 内存使用优化与存储](http://blog.jobbole.com/106466/)
   * [MySQL 分区表](http://blog.jobbole.com/107662/)
+  * [MySQL Indexing Best Practices](https://www.percona.com/files/presentations/WEBINAR-MySQL-Indexing-Best-Practices.pdf)
 
 
 ### About Linux
@@ -97,6 +101,10 @@
   * [验证码的前世今生（前世篇）](http://jaq.alibaba.com/community/art/show?articleid=548)
   * [验证码的前世今生（今生篇）](http://jaq.alibaba.com/community/art/show?articleid=582)
   * [Visual Representation of SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
+  * [What is a Digital Signature?](http://www.youdzone.com/signature.html)
+  * [RSA算法原理（一）](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
+  * [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
+  * [Why RSA can't handle numbers above 76?](http://crypto.stackexchange.com/questions/3798/why-rsa-cant-handle-numbers-above-76)
 
 
 ### About Algorithms
@@ -123,4 +131,4 @@
   * [Why should hash functions use a prime number modulus?](http://stackoverflow.com/questions/1145217/why-should-hash-functions-use-a-prime-number-modulus)
   * [一些有趣的算法](https://yq.aliyun.com/articles/62867?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_7383)
   * [计算机科学中最重要的32个算法](http://mp.weixin.qq.com/s?__biz=MzA5ODUxOTA5Mg==&mid=2652550555&idx=1&sn=1fd1ced6bc1bb6d58bd015b39e6cc706&chksm=8b7e44c0bc09cdd68f5c4efa783da89f8413769c557067b1c00c3328cd95976f380cac496e56&mpshare=1&scene=23&srcid=1121gzHeqkJil2nmKRUFV36g#rd)
-
+  * [字符串匹配的KMP算法](http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)
