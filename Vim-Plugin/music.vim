@@ -11,12 +11,6 @@ song = pyglet.media.load('/Users/kasheemlew/Documents/Daily-Ex/Vim-Plugin/test.o
 song.play()
 pyglet.app.run()
 
-start_time=time.clock()
-while True:
-    now_time=time.clock()
-    if now_time > start_time+5:
-        pyglet.app.exit()
-        break
 
 EOF
 endfunction

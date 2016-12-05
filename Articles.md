@@ -22,6 +22,8 @@
   * [玩Python之HTTP代理](http://python.jobbole.com/86747/)
   * [Python: Declaring Dynamic Attributes](http://amir.rachum.com/blog/2016/10/05/python-dynamic-attributes/)
   * [对 Python Socket 编程的初探](http://python.jobbole.com/86837/)
+  * [Python扒取异步加载内容](http://www.jianshu.com/p/6002ef3434fd)
+  * [梯度下降算法以及其Python实现](http://www.jianshu.com/p/9bf3017e2487)
 
 
 ### About C/C++
