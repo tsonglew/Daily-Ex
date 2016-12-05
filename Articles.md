@@ -23,7 +23,6 @@
   * [Python: Declaring Dynamic Attributes](http://amir.rachum.com/blog/2016/10/05/python-dynamic-attributes/)
   * [对 Python Socket 编程的初探](http://python.jobbole.com/86837/)
   * [Python扒取异步加载内容](http://www.jianshu.com/p/6002ef3434fd)
-  * [梯度下降算法以及其Python实现](http://www.jianshu.com/p/9bf3017e2487)
 
 
 ### About C/C++
@@ -58,6 +57,13 @@
   * [Essential Electron](http://jlord.us/essential-electron/)
 
 
+### Machine Learning
+
+  * [梯度下降算法以及其Python实现](http://www.jianshu.com/p/9bf3017e2487)
+  * [Scikit-learn中的决策树](http://www.jianshu.com/p/59b510bafb4d)
+  * [Machine Learning -- Andrew Ng](https://www.coursera.org/learn/machine-learning/home)
+
+
 ### About HTTP and Server-Side
 
   * [Chrome扩展程序开发](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/Chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.md)
@@ -73,6 +79,7 @@
   * [Redis 内存使用优化与存储](http://blog.jobbole.com/106466/)
   * [MySQL 分区表](http://blog.jobbole.com/107662/)
   * [MySQL Indexing Best Practices](https://www.percona.com/files/presentations/WEBINAR-MySQL-Indexing-Best-Practices.pdf)
+  * [Visual Representation of SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
 
 
 ### About Linux
@@ -102,7 +109,6 @@
   * [漫画：如何用脚本抢月饼?](http://blog.jobbole.com/106676/)
   * [验证码的前世今生（前世篇）](http://jaq.alibaba.com/community/art/show?articleid=548)
   * [验证码的前世今生（今生篇）](http://jaq.alibaba.com/community/art/show?articleid=582)
-  * [Visual Representation of SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
   * [What is a Digital Signature?](http://www.youdzone.com/signature.html)
   * [RSA算法原理（一）](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
   * [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
@@ -135,3 +141,4 @@
   * [一些有趣的算法](https://yq.aliyun.com/articles/62867?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_7383)
   * [计算机科学中最重要的32个算法](http://mp.weixin.qq.com/s?__biz=MzA5ODUxOTA5Mg==&mid=2652550555&idx=1&sn=1fd1ced6bc1bb6d58bd015b39e6cc706&chksm=8b7e44c0bc09cdd68f5c4efa783da89f8413769c557067b1c00c3328cd95976f380cac496e56&mpshare=1&scene=23&srcid=1121gzHeqkJil2nmKRUFV36g#rd)
   * [字符串匹配的KMP算法](http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)
+  * [Hofstadter的非线性递推数列](http://www.matrix67.com/blog/archives/5152)
