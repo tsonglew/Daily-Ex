@@ -62,6 +62,7 @@
   * [梯度下降算法以及其Python实现](http://www.jianshu.com/p/9bf3017e2487)
   * [Scikit-learn中的决策树](http://www.jianshu.com/p/59b510bafb4d)
   * [Machine Learning -- Andrew Ng](https://www.coursera.org/learn/machine-learning/home)
+  * [Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
 
 
 ### About HTTP and Server-Side
@@ -122,6 +123,7 @@
   * [漫画算法：找出缺失的整数](http://blog.jobbole.com/106521/)
   * [漫画算法：辗转相除法是什么鬼？](http://blog.jobbole.com/106315/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
   * [漫画算法：如何判断链表有环？](http://blog.jobbole.com/106227/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+  * [漫画算法：无序数组排序后的最大相邻差值](http://blog.jobbole.com/108594/)
   * [坐在马桶上看算法（1）：桶排序](http://blog.jobbole.com/100361/)
   * [坐在马桶上看算法（2）：邻居好说话，冒泡排序](http://blog.jobbole.com/100378/)
   * [坐在马桶上看算法（3）：快速排序](http://blog.jobbole.com/100531/)
