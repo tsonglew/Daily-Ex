@@ -42,6 +42,7 @@
   * [Go语言Interface漫谈](http://www.infoq.com/cn/articles/go-interface-talk)
   * [如何避开 Go 中的各种陷阱](http://newt0n.github.io/2016/11/07/%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80-Go-%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E9%99%B7%E9%98%B1/)
   * [Go 反射实践及剖析](http://blog.jobbole.com/108601/)
+  * [Go 语言入门进阶](https://gold.xitu.io/collection/5832a3a01e35c90ec130597b)
 
 
 ### About Swift
