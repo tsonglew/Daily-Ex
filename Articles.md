@@ -23,6 +23,7 @@
   * [Python: Declaring Dynamic Attributes](http://amir.rachum.com/blog/2016/10/05/python-dynamic-attributes/)
   * [对 Python Socket 编程的初探](http://python.jobbole.com/86837/)
   * [Python扒取异步加载内容](http://www.jianshu.com/p/6002ef3434fd)
+  * [Python函数式编程：从入门到走火入魔](http://python.jobbole.com/86950/)
 
 
 ### About C/C++
