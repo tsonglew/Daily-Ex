@@ -58,6 +58,7 @@
   * [Arrays in JavaScript](http://www.2ality.com/2012/12/arrays.html)
   * [JavaScript原型详解](http://gold.xitu.io/post/57f336a9816dfa00568f300c)
   * [Essential Electron](http://jlord.us/essential-electron/)
+  * [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
 
 
 ### Machine Learning
@@ -94,6 +95,8 @@
   * [SSH原理与运用（二）：远程操作与端口转发](http://www.ruanyifeng.com/blog/2011/12/ssh_port_forwarding.html)
   * [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
   * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+  * [Linux Inside](https://github.com/0xAX/linux-insides/)
+
 
 
 ### About Vim
