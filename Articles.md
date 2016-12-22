@@ -24,6 +24,7 @@
   * [对 Python Socket 编程的初探](http://python.jobbole.com/86837/)
   * [Python扒取异步加载内容](http://www.jianshu.com/p/6002ef3434fd)
   * [Python函数式编程：从入门到走火入魔](http://python.jobbole.com/86950/)
+  * [PYTHON-进阶-编码处理小结](http://wklken.me/posts/2013/08/31/python-extra-coding-intro.html)
 
 
 ### About C/C++
