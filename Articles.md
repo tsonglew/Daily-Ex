@@ -4,6 +4,7 @@
   * [Google 开源项目风格指南](http://zh-google-styleguide.readthedocs.io/en/latest/contents/)
   * [Regular Expression Language](https://msdn.microsoft.com/en-us/library/az24scfc.aspx)
   * [Math ∩ Programming](https://jeremykun.com/)
+  * [程序员必读的十篇文章](http://blog.jobbole.com/71723/)
 
 
 ### About Python
@@ -33,6 +34,7 @@
   * [判断链表是否有环](http://blog.jobbole.com/107601/)
   * [关于 std::set/std::map 的几个为什么](http://blog.jobbole.com/107647/)
   * [有趣的问题：C 的表达式 x == x，何时为假?](http://blog.jobbole.com/107901/)
+  * [C++ new A 和 new A() 的区别详解](http://blog.jobbole.com/109337/)
 
 
 ### About Go
@@ -68,6 +70,7 @@
   * [Scikit-learn中的决策树](http://www.jianshu.com/p/59b510bafb4d)
   * [Machine Learning -- Andrew Ng](https://www.coursera.org/learn/machine-learning/home)
   * [Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
+  * [朴素贝叶斯分类器的应用 -- 阮一峰](http://www.ruanyifeng.com/blog/2013/12/naive_bayes_classifier.html)
 
 
 ### About HTTP and Server-Side
