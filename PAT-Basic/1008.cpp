@@ -10,8 +10,7 @@ int main() {
     }
     int size = static_cast<int>(container.size());
     for(int i=0, m=M-N;i<size;i++,m++) {
-        m %= size;
-        std::cout << container[m];
+        std::cout << container[m%size];
         if(i!=size-1) std::cout << " ";
     }
     return 0;
