@@ -3,7 +3,7 @@ using namespace std;
 
 class A {
     public:
-        A() {}
+        A() {cout << "start of A" << endl;}
         // virtual ~A() { cout << "end of A" << endl; }
         ~A() { cout << "end of A" << endl; }
 };
