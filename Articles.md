@@ -124,6 +124,7 @@
   * [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
   * [Why RSA can't handle numbers above modulus?](http://crypto.stackexchange.com/questions/3798/why-rsa-cant-handle-numbers-above-76)
   * [密码算法详解——AES](http://www.mamicode.com/info-detail-514466.html)
+  * [RESTful 架构风格下的 4 大常见安全问题](http://blog.jobbole.com/109610/)
 
 
 ### About Algorithms
