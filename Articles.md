@@ -96,9 +96,11 @@
   * [linux中强大且常用命令：find、grep](http://blog.jobbole.com/107458/)
   * [SSH原理与运用（一）：远程登录](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)
   * [SSH原理与运用（二）：远程操作与端口转发](http://www.ruanyifeng.com/blog/2011/12/ssh_port_forwarding.html)
+  * [Difference Between Telnet and SSH](http://www.differencebetween.net/technology/internet/difference-between-telnet-and-ssh/)
   * [gdb Debugging Full Example (Tutorial): ncurses](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
   * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
   * [Linux Inside](https://github.com/0xAX/linux-insides/)
+  * [\[Ubuntu\]What's the difference between “Service” and “/etc/init.d/”?](http://askubuntu.com/questions/2075/whats-the-difference-between-service-and-etc-init-d)
 
 
 
