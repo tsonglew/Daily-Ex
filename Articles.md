@@ -101,6 +101,7 @@
   * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
   * [Linux Inside](https://github.com/0xAX/linux-insides/)
   * [\[Ubuntu\]What's the difference between “Service” and “/etc/init.d/”?](http://askubuntu.com/questions/2075/whats-the-difference-between-service-and-etc-init-d)
+  * [what is POSIX?](http://stackoverflow.com/questions/1780599/i-never-really-understood-what-is-posix)
 
 
 
