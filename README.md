@@ -26,6 +26,7 @@
   * [Python扒取异步加载内容](http://www.jianshu.com/p/6002ef3434fd)
   * [Python函数式编程：从入门到走火入魔](http://python.jobbole.com/86950/)
   * [PYTHON-进阶-编码处理小结](http://wklken.me/posts/2013/08/31/python-extra-coding-intro.html)
+  * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 
 
 ### About C/C++
@@ -102,7 +103,7 @@
   * [Linux Inside](https://github.com/0xAX/linux-insides/)
   * [\[Ubuntu\]What's the difference between “Service” and “/etc/init.d/”?](http://askubuntu.com/questions/2075/whats-the-difference-between-service-and-etc-init-d)
   * [what is POSIX?](http://stackoverflow.com/questions/1780599/i-never-really-understood-what-is-posix)
-
+  * [What are file descriptors?](http://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms)
 
 
 ### About Vim
