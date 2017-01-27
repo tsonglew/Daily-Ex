@@ -71,6 +71,7 @@
   * [Machine Learning -- Andrew Ng](https://www.coursera.org/learn/machine-learning/home)
   * [Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
   * [朴素贝叶斯分类器的应用 -- 阮一峰](http://www.ruanyifeng.com/blog/2013/12/naive_bayes_classifier.html)
+  * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 
 ### About HTTP and Server-Side
