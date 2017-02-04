@@ -5,6 +5,7 @@
   * [Regular Expression Language](https://msdn.microsoft.com/en-us/library/az24scfc.aspx)
   * [Math ∩ Programming](https://jeremykun.com/)
   * [程序员必读的十篇文章](http://blog.jobbole.com/71723/)
+  * [Command Chanllenge](https://cmdchallenge.com/)
 
 
 ### About Python
