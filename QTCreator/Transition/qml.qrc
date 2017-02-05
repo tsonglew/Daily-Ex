@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>../Qt5.8.0/Examples/Qt-5.8/quickcontrols2/texteditor/images/qt-logo.png</file>
+    </qresource>
+</RCC>
