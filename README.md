@@ -28,6 +28,7 @@
   * [Python函数式编程：从入门到走火入魔](http://python.jobbole.com/86950/)
   * [PYTHON-进阶-编码处理小结](http://wklken.me/posts/2013/08/31/python-extra-coding-intro.html)
   * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
+  * [super 没那么简单](http://python.jobbole.com/87291/)
 
 
 ### About C/C++
