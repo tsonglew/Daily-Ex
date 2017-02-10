@@ -69,6 +69,12 @@
   * [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
 
 
+### About C# and Unity
+
+  * [Unity3D tutorials](https://unity3d.com/learn/tutorials)
+  * [Execution Order of Event Functions](https://docs.unity3d.com/Manual/ExecutionOrder.html)
+
+
 ### Machine Learning
 
   * [梯度下降算法以及其Python实现](http://www.jianshu.com/p/9bf3017e2487)
