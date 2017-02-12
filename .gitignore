@@ -2,6 +2,7 @@
 Library/
 obj/
 a.out
+*.pyc
 
 # =============== #
 # Unity generated #
