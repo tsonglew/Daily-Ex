@@ -1,4 +1,4 @@
-# Docs Collected in Daily Learning
+# Mark for Reading
 
 [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
 
@@ -10,7 +10,7 @@
   * [Command Chanllenge](https://cmdchallenge.com/)
 
 
-### About Python
+### Python
 
   * [Python 包管理工具解惑](http://python.jobbole.com/86466/)
   * [Python自动化面试必备 之 你真明白装饰器么?](http://python.jobbole.com/86632/)
@@ -36,7 +36,7 @@
 
 
 
-### About C/C++
+### C/C++
 
   * [内存泄漏漫谈](http://tmq.qq.com/2016/10/memory-leak-rambling/)
   * [判断链表是否有环](http://blog.jobbole.com/107601/)
@@ -44,7 +44,7 @@
   * [有趣的问题：C 的表达式 x == x，何时为假?](http://blog.jobbole.com/107901/)
 
 
-### About Go
+### Go
 
   * [The Go Compiler](https://www.codeschool.com/blog/2016/10/05/the-go-compiler/)
   * [Why Go?](https://www.codeschool.com/blog/2016/09/28/why-go/)
@@ -56,13 +56,13 @@
   * [Go 语言入门进阶](https://gold.xitu.io/collection/5832a3a01e35c90ec130597b)
 
 
-### About Swift
+### Swift
 
   * [Trip to iOS](https://github.com/iOS-Ex/trip-to-iOS)
   * [Swift 语言指南](http://dev.swiftguide.cn/)
 
 
-### About JavaScript
+### JavaScript
 
   * [JavaScript运算符：== VS. ===](http://web.jobbole.com/88186/)
   * [Arrays in JavaScript](http://www.2ality.com/2012/12/arrays.html)
@@ -71,10 +71,15 @@
   * [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
 
 
-### About C# and Unity
+### C# and Unity
 
   * [Unity3D tutorials](https://unity3d.com/learn/tutorials)
   * [Execution Order of Event Functions](https://docs.unity3d.com/Manual/ExecutionOrder.html)
+
+
+### Assembly
+
+  * [Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm)
 
 
 ### Machine Learning
@@ -87,7 +92,7 @@
   * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 
-### About HTTP and Server-Side
+### HTTP and Server-Side
 
   * [Chrome扩展程序开发](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/Chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.md)
   * [一次完整的 HTTP 请求过程](http://blog.jobbole.com/106632/)
@@ -97,7 +102,7 @@
   * [大型网站架构系列：负载均衡详解](http://mp.weixin.qq.com/s?__biz=MzAxNzMwOTQ0NA%3D%3D&mid=2653354620&idx=4&sn=8e6e02a94f614c18449244375b028418&chksm=8035d017b7425901e03ec5e008f066766904dc9371923101c15a80c065d6dd29c7c5ce135149)
 
 
-### About DataBase
+### DataBase
 
   * [Redis 内存使用优化与存储](http://blog.jobbole.com/106466/)
   * [MySQL 分区表](http://blog.jobbole.com/107662/)
@@ -105,7 +110,7 @@
   * [Visual Representation of SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
 
 
-### About Linux
+### Linux
 
   * [Linux 技巧：让进程在后台可靠运行的几种方法](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/)
   * [linux中强大且常用命令：find、grep](http://blog.jobbole.com/107458/)
@@ -120,14 +125,14 @@
   * [What are file descriptors?](http://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms)
 
 
-### About Vim
+### Vim
 
   * [vim tips and tricks](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html)
   * [使用python写vim插件](https://segmentfault.com/a/1190000000756107)
   * [Learning the vi Editor/Vim/VimL Script language](https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/VimL_Script_language)
 
 
-### About Security
+### Security
 
   * [分布式拒绝服务攻击(DDoS)原理及防范](http://blog.jobbole.com/46846/)
   * [SQL注入攻击高级](http://blog.jobbole.com/105259/)
@@ -145,7 +150,7 @@
   * [RESTful 架构风格下的 4 大常见安全问题](http://blog.jobbole.com/109610/)
 
 
-### About Algorithms
+### Algorithms
 
   * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
   * [漫画算法：找出缺失的整数](http://blog.jobbole.com/106521/)
