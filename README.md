@@ -69,6 +69,7 @@
   * [JavaScript原型详解](http://gold.xitu.io/post/57f336a9816dfa00568f300c)
   * [Essential Electron](http://jlord.us/essential-electron/)
   * [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
+  * [Why Math.min() > Math.max()?](http://stackoverflow.com/questions/8848779/why-math-min-math-max)
 
 
 ### C# and Unity
