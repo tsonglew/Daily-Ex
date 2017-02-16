@@ -33,7 +33,9 @@
   * [super 没那么简单](http://python.jobbole.com/87291/)
   * [David Beazley - Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
   * [Efficient String Concatenation in Python](https://waymoot.org/home/python_string/)
-
+  * [Things which aren't magic - Flask and @app.route - Part 1](https://ains.co/blog/things-which-arent-magic-flask-part-1.html)
+  * [Things which aren't magic - Flask and @app.route - Part 2](https://ains.co/blog/things-which-arent-magic-flask-part-2.html)
+  * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 
 ### C/C++
