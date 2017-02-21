@@ -36,6 +36,10 @@
   * [Things which aren't magic - Flask and @app.route - Part 1](https://ains.co/blog/things-which-arent-magic-flask-part-1.html)
   * [Things which aren't magic - Flask and @app.route - Part 2](https://ains.co/blog/things-which-arent-magic-flask-part-2.html)
   * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+  * [What does if \_\_name\_\_ == “\_\_main\_\_”: do?](http://stackoverflow.com/questions/419163/what-does-if-name-main-do)
+  * [Generator Tricks For Systems Programmers](http://www.dabeaz.com/generators/Generators.pdf)
+  * [A Curious Course on Coroutines and Concurrency](http://dabeaz.com/coroutines/)
+  * [Improve Your Python: 'yield' and Generators Explained](https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
 
 
 ### C/C++
@@ -80,9 +84,10 @@
   * [Execution Order of Event Functions](https://docs.unity3d.com/Manual/ExecutionOrder.html)
 
 
-### Assembly
+### Computer System & OS
 
   * [Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm)
+  * [Processor Modes](http://flint.cs.yale.edu/feng/research/BIOS/procModes.htm)
 
 
 ### Machine Learning
@@ -113,7 +118,7 @@
   * [Visual Representation of SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
 
 
-### Linux
+### Unix & Linux
 
   * [Linux 技巧：让进程在后台可靠运行的几种方法](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/)
   * [linux中强大且常用命令：find、grep](http://blog.jobbole.com/107458/)
@@ -126,6 +131,7 @@
   * [\[Ubuntu\]What's the difference between “Service” and “/etc/init.d/”?](http://askubuntu.com/questions/2075/whats-the-difference-between-service-and-etc-init-d)
   * [what is POSIX?](http://stackoverflow.com/questions/1780599/i-never-really-understood-what-is-posix)
   * [What are file descriptors?](http://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms)
+  * [Basics of the Unix Philosophy](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
 
 
 ### Vim
