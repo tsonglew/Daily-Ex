@@ -40,6 +40,9 @@
   * [Generator Tricks For Systems Programmers](http://www.dabeaz.com/generators/Generators.pdf)
   * [A Curious Course on Coroutines and Concurrency](http://dabeaz.com/coroutines/)
   * [Improve Your Python: 'yield' and Generators Explained](https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
+  * [Python Descriptors, Part 1 of 2](http://martyalchin.com/2007/nov/23/python-descriptors-part-1-of-2/)
+  * [Python Descriptors, Part 2 of 2](http://martyalchin.com/2007/nov/24/python-descriptors-part-2-of-2/)
+  * [Descriptor HowTo Guide](https://docs.python.org/2/howto/descriptor.html)
 
 
 ### C/C++
