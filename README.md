@@ -189,3 +189,4 @@
   * [计算机科学中最重要的32个算法](http://mp.weixin.qq.com/s?__biz=MzA5ODUxOTA5Mg==&mid=2652550555&idx=1&sn=1fd1ced6bc1bb6d58bd015b39e6cc706&chksm=8b7e44c0bc09cdd68f5c4efa783da89f8413769c557067b1c00c3328cd95976f380cac496e56&mpshare=1&scene=23&srcid=1121gzHeqkJil2nmKRUFV36g#rd)
   * [字符串匹配的KMP算法](http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)
   * [Hofstadter的非线性递推数列](http://www.matrix67.com/blog/archives/5152)
+  * [parallel merge sort](http://ocw.alfaisal.edu/NR/rdonlyres/Electrical-Engineering-and-Computer-Science/6-046JFall-2005/30C68118-E436-4FE3-8C79-6BAFBB07D935/0/ps9sol.pdf)
