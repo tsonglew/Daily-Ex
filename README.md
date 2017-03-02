@@ -51,6 +51,7 @@
   * [判断链表是否有环](http://blog.jobbole.com/107601/)
   * [关于 std::set/std::map 的几个为什么](http://blog.jobbole.com/107647/)
   * [有趣的问题：C 的表达式 x == x，何时为假?](http://blog.jobbole.com/107901/)
+  * [The fork() System Call](http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
 
 
 ### Go
