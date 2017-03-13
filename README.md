@@ -1,4 +1,4 @@
-# Mark for Reading
+# TO READ
 
 [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
 
@@ -8,6 +8,7 @@
   * [Math ∩ Programming](https://jeremykun.com/)
   * [程序员必读的十篇文章](http://blog.jobbole.com/71723/)
   * [Command Chanllenge](https://cmdchallenge.com/)
+  * [Must-See Tech Talks for Every Programmer](http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/)
 
 
 ### Python
@@ -43,6 +44,8 @@
   * [Python Descriptors, Part 1 of 2](http://martyalchin.com/2007/nov/23/python-descriptors-part-1-of-2/)
   * [Python Descriptors, Part 2 of 2](http://martyalchin.com/2007/nov/24/python-descriptors-part-2-of-2/)
   * [Descriptor HowTo Guide](https://docs.python.org/2/howto/descriptor.html)
+  * [Real-time apps with gevent-socketio](http://learn-gevent-socketio.readthedocs.io/en/latest/index.html)
+  * [Python yield与实现](http://www.cnblogs.com/coder2012/p/4990834.html)
 
 
 ### C/C++
@@ -67,6 +70,9 @@
   * [Awesome Go](https://awesome-go.com)
   * [build-web-application-with-golang](https://astaxie.gitbooks.io/build-web-application-with-golang/)
   * [What exactly does runtime.Gosched do?](http://stackoverflow.com/questions/13107958/what-exactly-does-runtime-gosched-do)
+  * [C, Go -- a side-by-side reference sheet](http://hyperpolyglot.org/c)
+  * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+  * [go-database-sql](http://go-database-sql.org/overview.html)
 
 
 ### Swift
@@ -95,6 +101,7 @@
 
   * [Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm)
   * [Processor Modes](http://flint.cs.yale.edu/feng/research/BIOS/procModes.htm)
+  * [存储系统](http://share.onlinesjtu.com/mod/tab/view.php?id=208)
 
 
 ### Machine Learning
