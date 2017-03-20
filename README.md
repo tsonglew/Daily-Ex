@@ -46,6 +46,7 @@
   * [Descriptor HowTo Guide](https://docs.python.org/2/howto/descriptor.html)
   * [Real-time apps with gevent-socketio](http://learn-gevent-socketio.readthedocs.io/en/latest/index.html)
   * [Python yield与实现](http://www.cnblogs.com/coder2012/p/4990834.html)
+  * [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
 
 
 ### C/C++
@@ -146,6 +147,7 @@
   * [what is POSIX?](http://stackoverflow.com/questions/1780599/i-never-really-understood-what-is-posix)
   * [What are file descriptors?](http://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms)
   * [Basics of the Unix Philosophy](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
+  * [select / poll / epoll: practical difference for system architects](https://www.ulduzsoft.com/2014/01/select-poll-epoll-practical-difference-for-system-architects/)
 
 
 ### Vim
