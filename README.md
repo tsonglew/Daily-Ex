@@ -47,6 +47,8 @@
   * [Real-time apps with gevent-socketio](http://learn-gevent-socketio.readthedocs.io/en/latest/index.html)
   * [Python yield与实现](http://www.cnblogs.com/coder2012/p/4990834.html)
   * [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
+  * [A guide to Python's function decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
+  * [Testing, for people who hate testing](https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/)
 
 
 ### C/C++
@@ -204,3 +206,7 @@
   * [字符串匹配的Boyer-Moore算法](http://www.ruanyifeng.com/blog/2013/05/boyer-moore_string_search_algorithm.html)
   * [Hofstadter的非线性递推数列](http://www.matrix67.com/blog/archives/5152)
   * [parallel merge sort](http://ocw.alfaisal.edu/NR/rdonlyres/Electrical-Engineering-and-Computer-Science/6-046JFall-2005/30C68118-E436-4FE3-8C79-6BAFBB07D935/0/ps9sol.pdf)
+  * [通过分析 JDK 源代码研究 TreeMap 红黑树算法实现](http://www.ibm.com/developerworks/cn/java/j-lo-tree/index.html?ca=drs-)
+  * [Dynamic Programming — Maximum Subarray Problem](http://algorithms.tutorialhorizon.com/dynamic-programming-maximum-subarray-problem/)
+
+
