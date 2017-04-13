@@ -11,6 +11,11 @@
   * [Must-See Tech Talks for Every Programmer](http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/)
 
 
+### Git
+
+  * [Git Submodules basic explanation](https://gist.github.com/gitaarik/8735255)
+
+
 ### Python
 
   * [Python 包管理工具解惑](http://python.jobbole.com/86466/)
@@ -150,6 +155,7 @@
   * [What are file descriptors?](http://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms)
   * [Basics of the Unix Philosophy](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
   * [select / poll / epoll: practical difference for system architects](https://www.ulduzsoft.com/2014/01/select-poll-epoll-practical-difference-for-system-architects/)
+  * [How to use epoll? A complete example in C](https://banu.com/blog/2/how-to-use-epoll-a-complete-example-in-c/)
 
 
 ### Vim
@@ -208,5 +214,6 @@
   * [parallel merge sort](http://ocw.alfaisal.edu/NR/rdonlyres/Electrical-Engineering-and-Computer-Science/6-046JFall-2005/30C68118-E436-4FE3-8C79-6BAFBB07D935/0/ps9sol.pdf)
   * [通过分析 JDK 源代码研究 TreeMap 红黑树算法实现](http://www.ibm.com/developerworks/cn/java/j-lo-tree/index.html?ca=drs-)
   * [Dynamic Programming — Maximum Subarray Problem](http://algorithms.tutorialhorizon.com/dynamic-programming-maximum-subarray-problem/)
+  * [Raft](https://raft.github.io)
 
 
