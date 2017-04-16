@@ -15,6 +15,10 @@
 
   * [Git Submodules basic explanation](https://gist.github.com/gitaarik/8735255)
 
+### Docker & Kubernetes
+
+  * [Understanding Volumes in Docker](http://container-solutions.com/understanding-volumes-docker/)
+
 
 ### Python
 
