@@ -114,6 +114,7 @@
   * [Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm)
   * [Processor Modes](http://flint.cs.yale.edu/feng/research/BIOS/procModes.htm)
   * [存储系统](http://share.onlinesjtu.com/mod/tab/view.php?id=208)
+  * [Guide to x86-64](https://web.stanford.edu/class/cs107/guide_x86-64.html)
 
 
 ### Machine Learning
@@ -160,6 +161,7 @@
   * [Basics of the Unix Philosophy](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
   * [select / poll / epoll: practical difference for system architects](https://www.ulduzsoft.com/2014/01/select-poll-epoll-practical-difference-for-system-architects/)
   * [How to use epoll? A complete example in C](https://banu.com/blog/2/how-to-use-epoll-a-complete-example-in-c/)
+  * [跟我一起写Makefile:隐含规则](http://wiki.ubuntu.org.cn/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99Makefile:%E9%9A%90%E5%90%AB%E8%A7%84%E5%88%99)
 
 
 ### Vim
