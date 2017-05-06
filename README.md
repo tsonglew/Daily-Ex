@@ -165,6 +165,7 @@
   * [跟我一起写Makefile:隐含规则](http://wiki.ubuntu.org.cn/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99Makefile:%E9%9A%90%E5%90%AB%E8%A7%84%E5%88%99)
   * [Linux and Unix nc command](http://www.computerhope.com/unix/nc.htm)
   * [Unix Makefile Tutorial](https://www.tutorialspoint.com/makefile/index.htm)
+  * [Where do files go when the rm command is issued?](https://unix.stackexchange.com/questions/10883/where-do-files-go-when-the-rm-command-is-issued)
 
 
 ### Vim
