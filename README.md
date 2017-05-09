@@ -167,6 +167,7 @@
   * [Linux and Unix nc command](http://www.computerhope.com/unix/nc.htm)
   * [Unix Makefile Tutorial](https://www.tutorialspoint.com/makefile/index.htm)
   * [Where do files go when the rm command is issued?](https://unix.stackexchange.com/questions/10883/where-do-files-go-when-the-rm-command-is-issued)
+  * [Remote Procedure Calls (RPC)](https://users.cs.cf.ac.uk/Dave.Marshall/C/node33.html)
 
 
 ### Vim
