@@ -20,18 +20,18 @@ int main(int arc, char *argv[]) {
     }
 
     strcat(argv[1], "/");
-    printf("Directory List:\n");
     while((direntp = readdir(dirp)) != NULL) {
         char dir[100];
         strcpy(dir, argv[1]);
         strcat(dir, direntp->d_name);
         stat(dir, &info);
         if(S_ISDIR(info.st_mode)) {
-            printf("%s\n", direntp->d_name);
+            printf("(dir)");
             dircount++;
         } else {
             filecount++;
         }
+        printf("%s\n", direntp->d_name);
     }
     closedir(dirp);
     printf("Total %d files, %d directories\n", filecount, dircount);
