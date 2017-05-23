@@ -60,6 +60,7 @@
   * [Testing, for people who hate testing](https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/)
   * [Minimal examples of data structures and algorithms in Python](https://github.com/Python-Learning/algorithms)
   * [How to Make a Proxy Server in Python](https://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/)
+  * [Socket 编程实战](http://liujiacai.net/blog/2016/10/31/socket-programming/)
 
 
 ### C/C++
@@ -169,6 +170,8 @@
   * [Unix Makefile Tutorial](https://www.tutorialspoint.com/makefile/index.htm)
   * [Where do files go when the rm command is issued?](https://unix.stackexchange.com/questions/10883/where-do-files-go-when-the-rm-command-is-issued)
   * [Remote Procedure Calls (RPC)](https://users.cs.cf.ac.uk/Dave.Marshall/C/node33.html)
+  * [What's the difference between set, export and env and when should I use each?](https://askubuntu.com/questions/205688/whats-the-difference-between-set-export-and-env-and-when-should-i-use-each)
+  * [深刻理解Linux进程间通信（IPC）](https://www.ibm.com/developerworks/cn/linux/l-ipc/)
 
 
 ### Vim
