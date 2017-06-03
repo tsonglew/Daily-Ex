@@ -1,3 +1,5 @@
+.PHONY:clean
+
 prog: main.o p1.o p2.o
 	gcc -o prog main.o p1.o p2.o
 
