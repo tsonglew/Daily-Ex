@@ -88,6 +88,8 @@
   * [C, Go -- a side-by-side reference sheet](http://hyperpolyglot.org/c)
   * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
   * [go-database-sql](http://go-database-sql.org/overview.html)
+  * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang
+    Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 
 
 ### Swift

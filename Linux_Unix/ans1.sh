@@ -1,39 +1,28 @@
-#!/bin/bash
-# 编写一shell程序,读入学生姓名与三门功课成绩，求每个学生的三门课程总分，以及所
-# 有学生各门功课的的平均分。
+#!/bin/sh
 
-FIR_ALL=0
-SEC_ALL=0
-THI_ALL=0
+C1=0
+C2=0
+C3=0
 COUNT=0
 
-echo "Input Student Name: (Press ^D to Stop)"
+echo "Input name: (^D to quit)"
 while read NAME
 do
     ALL=0
-    echo "Input Grades of Student $NAME"
-    echo "first: "
-    read FIR
-    ALL=$[ALL+FIR]
-    echo "second:"
-    read SEC
-    ALL=$[ALL+SEC]
-    echo "third:"
-    read THI
-    ALL=$[ALL+THI]
-    echo "Sum of this $NAME's grades: $ALL"
-
-    FIR_ALL=$[FIR_ALL+FIR]
-    SEC_ALL=$[SEC_ALL+SEC]
-    THI_ALL=$[THI_ALL+THI]
-    COUNT=$[COUNT+1]
-    echo "\nInput Student Name: (Press ^D to Stop)"
+    echo "C1 grade: "
+    read C1G
+    C1=`expr $C1G + $C1`
+    echo "C2 grade: "
+    read C2G
+    C2=`expr $C2G + $C2`
+    echo "C3 grade: "
+    read C3G
+    C3=`expr $C3G + $C3`
+    ALL=`expr $C1G + $C2G + $C3G`
+    echo "total for $NAME: $ALL"
+    COUNT=`expr $COUNT + 1`
+    echo "Input name: (^D to quit)"
 done
-
-FIR_AVG=$[FIR_ALL/COUNT]
-SEC_AVG=$[SEC_ALL/COUNT]
-THI_AVG=$[THI_ALL/COUNT]
-
-echo "\nAverage of first: $FIR_AVG"
-echo "Average of second: $SEC_AVG"
-echo "Average of third: $THI_AVG"
+echo "average C1: `expr $C1 / $COUNT`"
+echo "average C2: `expr $C2 / $COUNT`"
+echo "average C3: `expr $C3 / $COUNT`"
