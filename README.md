@@ -72,7 +72,7 @@
   * [The fork() System Call](http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)
 
 
-### Go
+### Golang
 
   * [The Go Compiler](https://www.codeschool.com/blog/2016/10/05/the-go-compiler/)
   * [Why Go?](https://www.codeschool.com/blog/2016/09/28/why-go/)
@@ -90,6 +90,7 @@
   * [go-database-sql](http://go-database-sql.org/overview.html)
   * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang
     Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
+  * [Don't Get Bitten by Pointer vs Non-Pointer Method Receivers in Golang](https://nathanleclaire.com/blog/2014/08/09/dont-get-bitten-by-pointer-vs-non-pointer-method-receivers-in-golang/)
 
 
 ### Swift
