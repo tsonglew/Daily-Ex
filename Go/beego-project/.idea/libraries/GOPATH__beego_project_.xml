@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;beego-project&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/go-workspace/src/github.com" />
+      <root url="file://$USER_HOME$/go-workspace/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go-workspace/src/golang.org" />
+      <root url="file://$USER_HOME$/go-workspace/src/mymath" />
+      <root url="file://$USER_HOME$/go-workspace/src/beego-project" />
+      <root url="file://$USER_HOME$/go-workspace/src/mathapp" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/go-workspace/src/github.com" />
+      <root url="file://$USER_HOME$/go-workspace/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go-workspace/src/golang.org" />
+      <root url="file://$USER_HOME$/go-workspace/src/mymath" />
+      <root url="file://$USER_HOME$/go-workspace/src/beego-project" />
+      <root url="file://$USER_HOME$/go-workspace/src/mathapp" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
