@@ -1,0 +1,27 @@
+{
+    "kind": "Pod",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "podtest",
+        "labels": {
+            "name": "redis-master"
+        }
+    },
+    "spec": {
+        "containers": [{
+            "name": "master1",
+            "image": "k8stest/redis:test",
+            "ports": [{
+                "containerPort": 6379,
+                "hostPort": 6388
+            }]
+        }, {
+            "name": "master2",
+            "image": "k8stest/sshd:test",
+            "ports": [{
+                "containerPort": 22,
+                "hostPort": 8888
+            }]
+        }]
+    }
+}
