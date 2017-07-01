@@ -1,0 +1,20 @@
+{
+    "kind": "Service",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "nginx-service",
+        "labels": {
+            "name": "service-nginx"
+        }
+    },
+    "spec": {
+        "selector": {
+            "name": "service-nginx"
+        },
+        "ports": [
+            {
+                "port": 8000
+            }
+        ]
+    }
+}
