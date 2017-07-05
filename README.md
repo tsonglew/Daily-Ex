@@ -93,6 +93,8 @@
   * [Don't Get Bitten by Pointer vs Non-Pointer Method Receivers in Golang](https://nathanleclaire.com/blog/2014/08/09/dont-get-bitten-by-pointer-vs-non-pointer-method-receivers-in-golang/)
   * [Go By Example](https://gobyexample.com)
   * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
+  * [University courses that use Go](https://github.com/golang/go/wiki/Courses)
+  * [Profiler labels in Go](https://rakyll.org/profiler-labels/)
 
 
 ### Swift
