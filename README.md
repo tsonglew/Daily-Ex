@@ -18,6 +18,7 @@
 ### Docker & Kubernetes
 
   * [Understanding Volumes in Docker](http://container-solutions.com/understanding-volumes-docker/)
+  * [Load Balancing Kubernetes Services with NGINX Plus](https://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 
 
 ### Python
@@ -94,7 +95,7 @@
   * [Go By Example](https://gobyexample.com)
   * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
   * [University courses that use Go](https://github.com/golang/go/wiki/Courses)
-  * [Profiler labels in Go](https://rakyll.org/profiler-labels/)
+  * [Profiler labels in Go]
 
 
 ### Swift
