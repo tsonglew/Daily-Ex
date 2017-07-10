@@ -240,5 +240,4 @@
   * [通过分析 JDK 源代码研究 TreeMap 红黑树算法实现](http://www.ibm.com/developerworks/cn/java/j-lo-tree/index.html?ca=drs-)
   * [Dynamic Programming — Maximum Subarray Problem](http://algorithms.tutorialhorizon.com/dynamic-programming-maximum-subarray-problem/)
   * [Raft](https://raft.github.io)
-
-
+  * [原地内存整理算法](http://quant67.com/post/gc/restruct/restruct-mem.html)
