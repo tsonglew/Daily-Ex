@@ -1,6 +1,6 @@
 # TO READ
 
-[坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064)
+  [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
   * [初学者如何从零学习人工智能？](http://blog.jobbole.com/107495/)
   * [Google 开源项目风格指南](http://zh-google-styleguide.readthedocs.io/en/latest/contents/)
