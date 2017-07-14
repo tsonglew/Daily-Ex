@@ -9,6 +9,8 @@
   * [程序员必读的十篇文章](http://blog.jobbole.com/71723/)
   * [Command Chanllenge](https://cmdchallenge.com/)
   * [Must-See Tech Talks for Every Programmer](http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/)
+  * [浅谈 MVC、MVP 和 MVVM 架构模式](http://draveness.me/mvx.html)
+
 
 
 ### Git
