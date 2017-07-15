@@ -139,6 +139,7 @@
   * [朴素贝叶斯分类器的应用 -- 阮一峰](http://www.ruanyifeng.com/blog/2013/12/naive_bayes_classifier.html)
   * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
   * [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+  * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
 
 ### HTTP and Server-Side
