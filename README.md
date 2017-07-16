@@ -10,7 +10,7 @@
   * [Command Chanllenge](https://cmdchallenge.com/)
   * [Must-See Tech Talks for Every Programmer](http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/)
   * [浅谈 MVC、MVP 和 MVVM 架构模式](http://draveness.me/mvx.html)
-
+  * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
 
 
 ### Git
@@ -21,6 +21,7 @@
 
   * [Understanding Volumes in Docker](http://container-solutions.com/understanding-volumes-docker/)
   * [Load Balancing Kubernetes Services with NGINX Plus](https://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
+  * [Jérôme Petazzoni -- Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)
 
 
 ### Python
