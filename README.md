@@ -160,6 +160,10 @@
   * [Visual Representation of SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
   * [How does a relational database work](http://coding-geek.com/how-databases-work/)
 
+### Haskell
+
+  * [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
+
 
 ### Unix & Linux
 
