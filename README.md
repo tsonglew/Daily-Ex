@@ -214,7 +214,7 @@
   * [Why RSA can't handle numbers above modulus?](http://crypto.stackexchange.com/questions/3798/why-rsa-cant-handle-numbers-above-76)
   * [密码算法详解——AES](http://www.mamicode.com/info-detail-514466.html)
   * [RESTful 架构风格下的 4 大常见安全问题](http://blog.jobbole.com/109610/)
-
+  * [对 CBC 模式的一些攻击](http://quant67.com/post/crypt/cbc-crack/attack-on-cbc.html)
 
 ### Algorithms
 

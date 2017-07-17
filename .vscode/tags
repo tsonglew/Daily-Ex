@@ -1,0 +1,54 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Connection	../set_free_classroom/con.py	/^from mongokit import Connection, Document$/;"	kind:namespace	line:3
+Document	../set_free_classroom/con.py	/^from mongokit import Connection, Document$/;"	kind:namespace	line:3
+Flask	../set_free_classroom/con.py	/^from flask import Flask$/;"	kind:namespace	line:2
+MONGODB_HOST	../set_free_classroom/con.py	/^MONGODB_HOST = '121.42.12.214'$/;"	kind:variable	line:6
+MONGODB_PORT	../set_free_classroom/con.py	/^MONGODB_PORT = 27017$/;"	kind:variable	line:7
+RESET_FLAG	../set_free_classroom/set.py	/^        RESET_FLAG = 1$/;"	kind:variable	line:156
+RESET_FLAG	../set_free_classroom/set.py	/^RESET_FLAG = 0$/;"	kind:variable	line:10
+Week	../set_free_classroom/con.py	/^class Week(Document):$/;"	kind:class	line:16
+__collection__	../set_free_classroom/con.py	/^    __collection__ = 'weeks'$/;"	kind:variable	line:22
+__database__	../set_free_classroom/con.py	/^    __database__ = 'weekdb'$/;"	kind:variable	line:23
+__repr__	../set_free_classroom/con.py	/^    def __repr__(self):$/;"	kind:member	line:34
+all_tables	../set_free_classroom/set.py	/^all_tables = data.sheets()$/;"	kind:variable	line:8
+app	../set_free_classroom/con.py	/^app = Flask(__name__)$/;"	kind:variable	line:10
+asyncio	../async-python/print-hello.py	/^import asyncio$/;"	kind:namespace	line:1
+change_to_free	../set_free_classroom/set.py	/^def change_to_free(bno, cm_all):$/;"	kind:function	line:125
+con.py	../set_free_classroom/con.py	1;"	kind:file	line:1
+connection	../set_free_classroom/con.py	/^connection = Connection(app.config['MONGODB_HOST'],$/;"	kind:variable	line:14
+connection	../set_free_classroom/set.py	/^from con import connection$/;"	kind:namespace	line:2
+data	../set_free_classroom/set.py	/^data = xlrd.open_workbook(table_path)$/;"	kind:variable	line:7
+e_all	../set_free_classroom/set.py	/^    e_all = [u'8101',u'8102',u'8103',u'8104',u'8105',u'8106',u'8107',u'8108',u'8109',$/;"	kind:variable	line:145
+init_week	../set_free_classroom/set.py	/^    def init_week(week_name, bno):$/;"	kind:function	line:36
+init_weekdays	../set_free_classroom/set.py	/^    def init_weekdays(weekday_list):$/;"	kind:function	line:31
+list_minus	../set_free_classroom/set.py	/^def list_minus(a, b):$/;"	kind:function	line:13
+loop	../async-python/print-hello.py	/^loop = asyncio.get_event_loop()$/;"	kind:variable	line:3
+main	../Linux_Unix/Unix/Vim-Plugin/py_test.py	/^def main():$/;"	kind:function	line:1
+os	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import os$/;"	kind:namespace	line:6
+os	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^import os$/;"	kind:namespace	line:3
+print-hello.py	../async-python/print-hello.py	1;"	kind:file	line:1
+print_hello	../async-python/print-hello.py	/^async def print_hello():$/;"	kind:function	line:5
+py_test.py	../Linux_Unix/Unix/Vim-Plugin/py_test.py	1;"	kind:file	line:1
+pyglet	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import pyglet$/;"	kind:namespace	line:4
+pyglet	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^import pyglet$/;"	kind:namespace	line:1
+reset_week	../set_free_classroom/set.py	/^    def reset_week(week):$/;"	kind:function	line:54
+s_all	../set_free_classroom/set.py	/^    s_all = [u'7101',u'7102',u'7103',u'7104',u'7105',u'7106',u'7107',u'7108',u'7109',$/;"	kind:variable	line:140
+set.py	../set_free_classroom/set.py	1;"	kind:file	line:1
+song	../Linux_Unix/Unix/Vim-Plugin/test.py	/^song = pyglet.media.load('\/Users\/kasheemlew\/Documents\/Daily-Ex\/Vim-Plugin\/test.ogg')$/;"	kind:variable	line:7
+song	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^song = pyglet.media.load('\/Users\/kasheemlew\/Documents\/Daily-Ex\/Vim-Plugin\/test.ogg')$/;"	kind:variable	line:4
+start_time	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^start_time=time.clock()$/;"	kind:variable	line:8
+structure	../set_free_classroom/con.py	/^    structure = {$/;"	kind:variable	line:24
+sys	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import sys$/;"	kind:namespace	line:1
+sys	../set_free_classroom/set.py	/^import sys$/;"	kind:namespace	line:4
+table_path	../set_free_classroom/set.py	/^table_path = '.\/classroom_table.xls'$/;"	kind:variable	line:6
+test.py	../Linux_Unix/Unix/Vim-Plugin/test.py	1;"	kind:file	line:1
+test_music.py	../Linux_Unix/Unix/Vim-Plugin/test_music.py	1;"	kind:file	line:1
+time	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import time$/;"	kind:namespace	line:5
+time	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^import time$/;"	kind:namespace	line:2
+update_each	../set_free_classroom/set.py	/^def update_each(table):$/;"	kind:function	line:21
+xlrd	../set_free_classroom/set.py	/^import xlrd$/;"	kind:namespace	line:3
