@@ -11,7 +11,7 @@
   * [Must-See Tech Talks for Every Programmer](http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/)
   * [浅谈 MVC、MVP 和 MVVM 架构模式](http://draveness.me/mvx.html)
   * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
-  * [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
+
 
 
 ### Git
@@ -116,6 +116,7 @@
   * [Essential Electron](http://jlord.us/essential-electron/)
   * [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
   * [Why Math.min() > Math.max()?](http://stackoverflow.com/questions/8848779/why-math-min-math-max)
+  * [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
 
 
 ### C# and Unity
