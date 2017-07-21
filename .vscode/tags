@@ -23,6 +23,7 @@ con.py	../set_free_classroom/con.py	1;"	kind:file	line:1
 connection	../set_free_classroom/con.py	/^connection = Connection(app.config['MONGODB_HOST'],$/;"	kind:variable	line:14
 connection	../set_free_classroom/set.py	/^from con import connection$/;"	kind:namespace	line:2
 data	../set_free_classroom/set.py	/^data = xlrd.open_workbook(table_path)$/;"	kind:variable	line:7
+demo.py	../tensorflow-DL-demo/demo.py	1;"	kind:file	line:1
 e_all	../set_free_classroom/set.py	/^    e_all = [u'8101',u'8102',u'8103',u'8104',u'8105',u'8106',u'8107',u'8108',u'8109',$/;"	kind:variable	line:145
 init_week	../set_free_classroom/set.py	/^    def init_week(week_name, bno):$/;"	kind:function	line:36
 init_weekdays	../set_free_classroom/set.py	/^    def init_weekdays(weekday_list):$/;"	kind:function	line:31
