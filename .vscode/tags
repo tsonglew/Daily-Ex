@@ -9,9 +9,12 @@ Document	../set_free_classroom/con.py	/^from mongokit import Connection, Documen
 Flask	../set_free_classroom/con.py	/^from flask import Flask$/;"	kind:namespace	line:2
 MONGODB_HOST	../set_free_classroom/con.py	/^MONGODB_HOST = '121.42.12.214'$/;"	kind:variable	line:6
 MONGODB_PORT	../set_free_classroom/con.py	/^MONGODB_PORT = 27017$/;"	kind:variable	line:7
+NUM_EPOCHS	../tensorflow-DL-demo/np-HosingPrice.py	/^NUM_EPOCHS = 100$/;"	kind:variable	line:3
 RESET_FLAG	../set_free_classroom/set.py	/^        RESET_FLAG = 1$/;"	kind:variable	line:156
 RESET_FLAG	../set_free_classroom/set.py	/^RESET_FLAG = 0$/;"	kind:variable	line:10
 Week	../set_free_classroom/con.py	/^class Week(Document):$/;"	kind:class	line:16
+X_train	../tensorflow-DL-demo/np-HosingPrice.py	/^X_train = numpy.array([$/;"	kind:variable	line:5
+Y_train	../tensorflow-DL-demo/np-HosingPrice.py	/^Y_train = numpy.array([345000, 580000, 360000])$/;"	kind:variable	line:12
 __collection__	../set_free_classroom/con.py	/^    __collection__ = 'weeks'$/;"	kind:variable	line:22
 __database__	../set_free_classroom/con.py	/^    __database__ = 'weekdb'$/;"	kind:variable	line:23
 __repr__	../set_free_classroom/con.py	/^    def __repr__(self):$/;"	kind:member	line:34
@@ -22,14 +25,18 @@ change_to_free	../set_free_classroom/set.py	/^def change_to_free(bno, cm_all):$/
 con.py	../set_free_classroom/con.py	1;"	kind:file	line:1
 connection	../set_free_classroom/con.py	/^connection = Connection(app.config['MONGODB_HOST'],$/;"	kind:variable	line:14
 connection	../set_free_classroom/set.py	/^from con import connection$/;"	kind:namespace	line:2
+cost	../tensorflow-DL-demo/np-HosingPrice.py	/^def cost(Y_hat, Y):$/;"	kind:function	line:22
 data	../set_free_classroom/set.py	/^data = xlrd.open_workbook(table_path)$/;"	kind:variable	line:7
-demo.py	../tensorflow-DL-demo/demo.py	1;"	kind:file	line:1
 e_all	../set_free_classroom/set.py	/^    e_all = [u'8101',u'8102',u'8103',u'8104',u'8105',u'8106',u'8107',u'8108',u'8109',$/;"	kind:variable	line:145
 init_week	../set_free_classroom/set.py	/^    def init_week(week_name, bno):$/;"	kind:function	line:36
 init_weekdays	../set_free_classroom/set.py	/^    def init_weekdays(weekday_list):$/;"	kind:function	line:31
+learning_rate	../tensorflow-DL-demo/np-HosingPrice.py	/^learning_rate = 0.05$/;"	kind:variable	line:15
 list_minus	../set_free_classroom/set.py	/^def list_minus(a, b):$/;"	kind:function	line:13
 loop	../async-python/print-hello.py	/^loop = asyncio.get_event_loop()$/;"	kind:variable	line:3
 main	../Linux_Unix/Unix/Vim-Plugin/py_test.py	/^def main():$/;"	kind:function	line:1
+model	../tensorflow-DL-demo/np-HosingPrice.py	/^def model(X, weights, intercept):$/;"	kind:function	line:18
+np-HosingPrice.py	../tensorflow-DL-demo/np-HosingPrice.py	1;"	kind:file	line:1
+numpy	../tensorflow-DL-demo/np-HosingPrice.py	/^import numpy$/;"	kind:namespace	line:1
 os	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import os$/;"	kind:namespace	line:6
 os	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^import os$/;"	kind:namespace	line:3
 print-hello.py	../async-python/print-hello.py	1;"	kind:file	line:1
@@ -46,10 +53,15 @@ start_time	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^start_time=time.clock()
 structure	../set_free_classroom/con.py	/^    structure = {$/;"	kind:variable	line:24
 sys	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import sys$/;"	kind:namespace	line:1
 sys	../set_free_classroom/set.py	/^import sys$/;"	kind:namespace	line:4
+sys	../tensorflow-DL-demo/tf-HousingPrice.py	/^import sys$/;"	kind:namespace	line:1
 table_path	../set_free_classroom/set.py	/^table_path = '.\/classroom_table.xls'$/;"	kind:variable	line:6
+test	../tensorflow-DL-demo/np-HosingPrice.py	/^def test(X_test, Y_test, weights, intercept):$/;"	kind:function	line:53
 test.py	../Linux_Unix/Unix/Vim-Plugin/test.py	1;"	kind:file	line:1
 test_music.py	../Linux_Unix/Unix/Vim-Plugin/test_music.py	1;"	kind:file	line:1
+tf-HousingPrice.py	../tensorflow-DL-demo/tf-HousingPrice.py	1;"	kind:file	line:1
 time	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import time$/;"	kind:namespace	line:5
 time	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^import time$/;"	kind:namespace	line:2
+train	../tensorflow-DL-demo/np-HosingPrice.py	/^def train(X, Y):$/;"	kind:function	line:43
+training_round	../tensorflow-DL-demo/np-HosingPrice.py	/^def training_round(x, y, weights, intercept, alpha=learning_rate):$/;"	kind:function	line:26
 update_each	../set_free_classroom/set.py	/^def update_each(table):$/;"	kind:function	line:21
 xlrd	../set_free_classroom/set.py	/^import xlrd$/;"	kind:namespace	line:3
