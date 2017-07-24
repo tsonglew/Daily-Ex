@@ -1,8 +1,10 @@
 import tensorflow as tf
 
+NUM_EPOCHS = 100
+
 # Input --> Placeholder
-X = tf.placehodler(tf.float32, [None, 3])
-Y = tf.placehodler(tf.float32, [None, 1])
+X = tf.placeholder(tf.float32, [None, 3])
+Y = tf.placeholder(tf.float32, [None, 1])
 
 # Paramters --> Variables, create tf.Variables(s)
 W = tf.get_variable("weights", [3, 1], initializer=tf.random_normal_initializer())

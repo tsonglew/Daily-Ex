@@ -1,20 +1,30 @@
 package main
 
 import (
-    "fmt"
+	"fmt"
 )
 
-type Part struct {
-    Id int
-    Name string
+type student struct {
+	Name string
+	Age  int
 }
 
-type Part2 struct {
-    Part
-    Name string
+func pase_student() map[string]*student {
+	m := make(map[string]*student)
+	stus := []student{
+		{Name: "zhou", Age: 24},
+		{Name: "li", Age: 23},
+		{Name: "wang", Age: 22},
+	}
+	for _, stu := range stus {
+		m[stu.Name] = &stu
+	}
+	return m
 }
 
 func main() {
-    p := Part2{ Part{1, "kasheem"}, "lew"}
-    fmt.Println(p.Part.Id)
+	students := pase_student()
+	for k, v := range students {
+		fmt.Printf("key=%s,value=%v \n", k, v)
+	}
 }
