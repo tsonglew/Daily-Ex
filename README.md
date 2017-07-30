@@ -155,6 +155,7 @@
   * [Difference between proxy server and reverse proxy server](http://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server/366212#366212)
   * [How does Https work?](http://www.songzhw.com/2016/09/13/how-does-https-work/)
   * [大型网站架构系列：负载均衡详解](http://mp.weixin.qq.com/s?__biz=MzAxNzMwOTQ0NA%3D%3D&mid=2653354620&idx=4&sn=8e6e02a94f614c18449244375b028418&chksm=8035d017b7425901e03ec5e008f066766904dc9371923101c15a80c065d6dd29c7c5ce135149)
+  * [How Digest Authentication Works](https://technet.microsoft.com/en-us/library/cc780170\(v=ws.10\).aspx)
 
 
 ### DataBase

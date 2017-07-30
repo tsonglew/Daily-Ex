@@ -4,6 +4,7 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+FLAGS	../TensorFlowEx/mnist_softmax.py	/^FLAGS = None$/;"	kind:variable	line:12
 NUM_EPOCHS	../TensorFlowEx/tensorflow-DL-demo/np-HosingPrice.py	/^NUM_EPOCHS = 100$/;"	kind:variable	line:3
 NUM_EPOCHS	../TensorFlowEx/tensorflow-DL-demo/tf-HousingPrice.py	/^NUM_EPOCHS = 100$/;"	kind:variable	line:3
 W	../TensorFlowEx/tensorflow-DL-demo/tf-HousingPrice.py	/^W = tf.get_variable("weights", [3, 1], initializer=tf.random_normal_initializer())$/;"	kind:variable	line:10
@@ -13,6 +14,8 @@ X_train	../TensorFlowEx/tensorflow-DL-demo/np-HosingPrice.py	/^X_train = numpy.a
 Y	../TensorFlowEx/tensorflow-DL-demo/tf-HousingPrice.py	/^Y = tf.placeholder(tf.float32, [None, 1])$/;"	kind:variable	line:7
 Y_hat	../TensorFlowEx/tensorflow-DL-demo/tf-HousingPrice.py	/^Y_hat = tf.matmul(X, W) + b$/;"	kind:variable	line:14
 Y_train	../TensorFlowEx/tensorflow-DL-demo/np-HosingPrice.py	/^Y_train = numpy.array([345000, 580000, 360000])$/;"	kind:variable	line:12
+absolute_import	../TensorFlowEx/mnist_softmax.py	/^from __future__ import absolute_import$/;"	kind:namespace	line:1
+argparse	../TensorFlowEx/mnist_softmax.py	/^import argparse$/;"	kind:namespace	line:5
 asyncio	../async-python/print-hello.py	/^import asyncio$/;"	kind:namespace	line:1
 b	../TensorFlowEx/tensorflow-DL-demo/tf-HousingPrice.py	/^b = tf.get_variable("intercept", [1], initializer=tf.random_normal_initializer(0))$/;"	kind:variable	line:11
 b	../TensorFlowEx/tensorflowBasic/coreTutorialTest.py	/^b = tf.Variable([-.3], dtype=tf.float32)$/;"	kind:variable	line:6
@@ -20,6 +23,7 @@ coreTutorialTest.py	../TensorFlowEx/tensorflowBasic/coreTutorialTest.py	1;"	kind
 cost	../TensorFlowEx/tensorflow-DL-demo/np-HosingPrice.py	/^def cost(Y_hat, Y):$/;"	kind:function	line:22
 cost	../TensorFlowEx/tensorflow-DL-demo/tf-HousingPrice.py	/^cost = tf.reduce_mean(tf.square(Y_hat-Y))$/;"	kind:variable	line:15
 customModel.py	../TensorFlowEx/tensorflowBasic/customModel.py	1;"	kind:file	line:1
+division	../TensorFlowEx/mnist_softmax.py	/^from __future__ import division$/;"	kind:namespace	line:2
 estimator	../TensorFlowEx/tensorflowBasic/customModel.py	/^estimator = tf.contrib.learn.Estimator(model_fn=model)$/;"	kind:variable	line:18
 estimator	../TensorFlowEx/tensorflowBasic/linearRegressionModel.py	/^estimator = tf.contrib.learn.LinearRegressor(feature_columns=features)$/;"	kind:variable	line:7
 eval_input_fn	../TensorFlowEx/tensorflowBasic/customModel.py	/^eval_input_fn = tf.contrib.learn.io.numpy_input_fn({"x": x_eval}, y_eval, 4, num_epochs=1000)$/;"	kind:variable	line:25
@@ -28,7 +32,9 @@ eval_loss	../TensorFlowEx/tensorflowBasic/customModel.py	/^eval_loss = estimator
 eval_loss	../TensorFlowEx/tensorflowBasic/linearRegressionModel.py	/^eval_loss = estimator.evaluate(input_fn=eval_input_fn)$/;"	kind:variable	line:20
 features	../TensorFlowEx/tensorflowBasic/linearRegressionModel.py	/^features = [tf.contrib.layers.real_valued_column("x", dimension=1)]$/;"	kind:variable	line:5
 feed_dict	../TensorFlowEx/tensorflow-DL-demo/tf-HousingPrice.py	/^                     feed_dict = {$/;"	kind:variable	line:29
+help	../TensorFlowEx/mnist_softmax.py	/^                      help='Directory for storing input data')$/;"	kind:variable	line:43
 init	../TensorFlowEx/tensorflowBasic/coreTutorialTest.py	/^init = tf.global_variables_initializer()$/;"	kind:variable	line:25
+input_data	../TensorFlowEx/mnist_softmax.py	/^from tensorflow.examples.tutorials.mnist import input_data$/;"	kind:namespace	line:8
 input_fn	../TensorFlowEx/tensorflowBasic/customModel.py	/^input_fn = tf.contrib.learn.io.numpy_input_fn({"x": x_train}, y_train, 4, num_epochs=1000)$/;"	kind:variable	line:24
 input_fn	../TensorFlowEx/tensorflowBasic/linearRegressionModel.py	/^input_fn = tf.contrib.learn.io.numpy_input_fn({"x":x_train}, y_train, batch_size=4, num_epochs=1000)$/;"	kind:variable	line:14
 learning_rate	../TensorFlowEx/tensorflow-DL-demo/np-HosingPrice.py	/^learning_rate = 0.05$/;"	kind:variable	line:15
@@ -38,6 +44,7 @@ linear_model	../TensorFlowEx/tensorflowBasic/coreTutorialTest.py	/^linear_model 
 loop	../async-python/print-hello.py	/^loop = asyncio.get_event_loop()$/;"	kind:variable	line:3
 loss	../TensorFlowEx/tensorflowBasic/coreTutorialTest.py	/^loss = tf.reduce_sum(tf.square(linear_model - y))$/;"	kind:variable	line:14
 main	../Linux_Unix/Unix/Vim-Plugin/py_test.py	/^def main():$/;"	kind:function	line:1
+main	../TensorFlowEx/mnist_softmax.py	/^def main(_):$/;"	kind:function	line:15
 mnist_softmax.py	../TensorFlowEx/mnist_softmax.py	1;"	kind:file	line:1
 model	../TensorFlowEx/tensorflow-DL-demo/np-HosingPrice.py	/^def model(X, weights, intercept):$/;"	kind:function	line:18
 model	../TensorFlowEx/tensorflowBasic/customModel.py	/^def model(features, labels, mode):$/;"	kind:function	line:5
@@ -50,7 +57,9 @@ optimizer	../TensorFlowEx/tensorflow-DL-demo/tf-HousingPrice.py	/^optimizer = tf
 optimizer	../TensorFlowEx/tensorflowBasic/coreTutorialTest.py	/^optimizer = tf.train.GradientDescentOptimizer(0.01)$/;"	kind:variable	line:17
 os	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import os$/;"	kind:namespace	line:6
 os	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^import os$/;"	kind:namespace	line:3
+parser	../TensorFlowEx/mnist_softmax.py	/^  parser = argparse.ArgumentParser()$/;"	kind:variable	line:41
 print-hello.py	../async-python/print-hello.py	1;"	kind:file	line:1
+print_function	../TensorFlowEx/mnist_softmax.py	/^from __future__ import print_function$/;"	kind:namespace	line:3
 print_hello	../async-python/print-hello.py	/^async def print_hello():$/;"	kind:function	line:5
 py_test.py	../Linux_Unix/Unix/Vim-Plugin/py_test.py	1;"	kind:file	line:1
 pyglet	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import pyglet$/;"	kind:namespace	line:4
@@ -60,9 +69,11 @@ song	../Linux_Unix/Unix/Vim-Plugin/test.py	/^song = pyglet.media.load('\/Users\/
 song	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^song = pyglet.media.load('\/Users\/kasheemlew\/Documents\/Daily-Ex\/Vim-Plugin\/test.ogg')$/;"	kind:variable	line:4
 start_time	../Linux_Unix/Unix/Vim-Plugin/test_music.py	/^start_time=time.clock()$/;"	kind:variable	line:8
 sys	../Linux_Unix/Unix/Vim-Plugin/test.py	/^import sys$/;"	kind:namespace	line:1
+sys	../TensorFlowEx/mnist_softmax.py	/^import sys$/;"	kind:namespace	line:6
 test	../TensorFlowEx/tensorflow-DL-demo/np-HosingPrice.py	/^def test(X_test, Y_test, weights, intercept):$/;"	kind:function	line:53
 test.py	../Linux_Unix/Unix/Vim-Plugin/test.py	1;"	kind:file	line:1
 test_music.py	../Linux_Unix/Unix/Vim-Plugin/test_music.py	1;"	kind:file	line:1
+tf	../TensorFlowEx/mnist_softmax.py	/^import tensorflow as tf$/;"	kind:namespace	line:10
 tf	../TensorFlowEx/tensorflow-DL-demo/tf-HousingPrice.py	/^import tensorflow as tf$/;"	kind:namespace	line:1
 tf	../TensorFlowEx/tensorflowBasic/coreTutorialTest.py	/^import tensorflow as tf $/;"	kind:namespace	line:2
 tf	../TensorFlowEx/tensorflowBasic/customModel.py	/^import tensorflow as tf $/;"	kind:namespace	line:2
