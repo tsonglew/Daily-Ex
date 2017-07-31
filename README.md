@@ -13,6 +13,10 @@
   * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
 
 
+# Students' Resources
+
+  * [Computer Networking A Top-Down Approach](http://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)
+
 
 ### Git
 
