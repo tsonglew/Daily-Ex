@@ -105,7 +105,8 @@
   * [Go By Example](https://gobyexample.com)
   * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
   * [University courses that use Go](https://github.com/golang/go/wiki/Courses)
-  * [Profiler labels in Go]
+  * [Profiler labels in Go](https://rakyll.org/profiler-labels/)
+  * [Million WebSockets and Go](https://medium.com/@gobwas/million-websockets-and-go-cc58418460bb)
 
 
 ### Swift
