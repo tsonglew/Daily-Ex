@@ -17,18 +17,7 @@
 
   * [Computer Networking A Top-Down Approach](http://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)
   * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
-
-
-### Git
-
-  * [Git Submodules basic explanation](https://gist.github.com/gitaarik/8735255)
-
-### Docker & Kubernetes
-
-  * [Understanding Volumes in Docker](http://container-solutions.com/understanding-volumes-docker/)
-  * [Load Balancing Kubernetes Services with NGINX Plus](https://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
-  * [Jérôme Petazzoni -- Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)
-  * [Sandeep Dinesh -- Kubernetes Best Practices](https://speakerdeck.com/thesandlord/kubernetes-best-practices)
+  * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
 
 
 ### Python
@@ -108,6 +97,19 @@
   * [University courses that use Go](https://github.com/golang/go/wiki/Courses)
   * [Profiler labels in Go](https://rakyll.org/profiler-labels/)
   * [Million WebSockets and Go](https://medium.com/@gobwas/million-websockets-and-go-cc58418460bb)
+
+
+### Git
+
+  * [Git Submodules basic explanation](https://gist.github.com/gitaarik/8735255)
+
+
+### Docker & Kubernetes
+
+  * [Understanding Volumes in Docker](http://container-solutions.com/understanding-volumes-docker/)
+  * [Load Balancing Kubernetes Services with NGINX Plus](https://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
+  * [Jérôme Petazzoni -- Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)
+  * [Sandeep Dinesh -- Kubernetes Best Practices](https://speakerdeck.com/thesandlord/kubernetes-best-practices)
 
 
 ### Swift
