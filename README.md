@@ -154,6 +154,7 @@
   * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
   * [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
   * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+  * [Kaiming He -- Deep Residual Networks](http://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)
 
 
 ### HTTP and Server-Side
