@@ -2,5 +2,8 @@
 {
     "editor.renderWhitespace": "none",
     "python.pythonPath": "/usr/local/bin/python3.6",
-    "eslint.enable": false,
+    "files.associations": {
+        "iostream": "cpp",
+        "ios": "cpp"
+    },
 }

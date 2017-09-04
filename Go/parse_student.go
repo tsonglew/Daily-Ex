@@ -15,7 +15,6 @@ func pase_student() map[string]*student {
 		{Name: "zhou", Age: 24},
 		{Name: "li", Age: 23},
 		{Name: "wang", Age: 22},
-		name <- hello
 	}
 	for _, stu := range stus {
 		m[stu.Name] = &stu
