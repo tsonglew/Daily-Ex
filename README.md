@@ -212,6 +212,7 @@
   * [vim tips and tricks](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html)
   * [使用python写vim插件](https://segmentfault.com/a/1190000000756107)
   * [Learning the vi Editor/Vim/VimL Script language](https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/VimL_Script_language)
+  * [Open Vim](http://www.openvim.com)
 
 
 ### Security
