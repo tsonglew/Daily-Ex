@@ -156,6 +156,7 @@
   * [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
   * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
   * [Kaiming He -- Deep Residual Networks](http://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)
+  * [Building a Neural Net from Scratch in Go](http://www.datadan.io/building-a-neural-net-from-scratch-in-go/)
 
 
 ### HTTP and Server-Side
