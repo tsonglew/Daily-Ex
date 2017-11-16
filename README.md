@@ -130,6 +130,10 @@
   * [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
 
 
+### Argumented Reality
+
+  * [Augmented reality with Python and OpenCV ](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
+
 ### C# and Unity
 
   * [Unity3D tutorials](https://unity3d.com/learn/tutorials)
