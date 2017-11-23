@@ -98,6 +98,7 @@
   * [University courses that use Go](https://github.com/golang/go/wiki/Courses)
   * [Profiler labels in Go](https://rakyll.org/profiler-labels/)
   * [Million WebSockets and Go](https://medium.com/@gobwas/million-websockets-and-go-cc58418460bb)
+  * [Building a Real-time Collaborative Drawing App in Go](https://outcrawl.com/realtime-collaborative-drawing-go/)
 
 
 ### Git
