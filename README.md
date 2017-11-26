@@ -273,3 +273,4 @@
   * [Raft](https://raft.github.io)
   * [原地内存整理算法](http://quant67.com/post/gc/restruct/restruct-mem.html)
   * [500 Data Structures and Algorithms practice problems and their solutions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?__filter__=&__nsrc__=2&__snid3__=1594232728&share=1&from=singlemessage&isappinstalled=0)
+  * [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
