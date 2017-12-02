@@ -112,6 +112,7 @@
   * [Load Balancing Kubernetes Services with NGINX Plus](https://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
   * [Jérôme Petazzoni -- Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)
   * [Sandeep Dinesh -- Kubernetes Best Practices](https://speakerdeck.com/thesandlord/kubernetes-best-practices)
+  * [Docker 核心技术与实现原理](https://draveness.me/docker)
 
 
 ### Swift
