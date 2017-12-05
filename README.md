@@ -183,6 +183,7 @@
   * [MySQL Indexing Best Practices](https://www.percona.com/files/presentations/WEBINAR-MySQL-Indexing-Best-Practices.pdf)
   * [Visual Representation of SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
   * [How does a relational database work](http://coding-geek.com/how-databases-work/)
+  * [Redis基础、高级特性与性能调优](http://www.jianshu.com/p/2f14bc570563)
 
 ### Haskell
 
