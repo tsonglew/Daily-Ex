@@ -9,3 +9,5 @@ clientSocket.sendto(message, (serverHostname, serverPort))
 
 modifiedMsg, serverAddress = clientSocket.recvfrom(2048)
 print('Modified Message: %r from %r' % (modifiedMsg, serverAddress))
+
+clientSocket.close()
