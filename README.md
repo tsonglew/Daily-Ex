@@ -114,6 +114,7 @@
   * [Jérôme Petazzoni -- Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8)
   * [Sandeep Dinesh -- Kubernetes Best Practices](https://speakerdeck.com/thesandlord/kubernetes-best-practices)
   * [Docker 核心技术与实现原理](https://draveness.me/docker)
+  * [Understanding the Docker Cache for Faster Builds](https://thenewstack.io/understanding-the-docker-cache-for-faster-builds/)
 
 
 ### Swift
@@ -131,6 +132,7 @@
   * [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
   * [Why Math.min() > Math.max()?](http://stackoverflow.com/questions/8848779/why-math-min-math-max)
   * [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
+  * [ECMAScript 5 Strict Mode, JSON, and More](https://johnresig.com/blog/ecmascript-5-strict-mode-json-and-more/)
 
 
 ### Argumented Reality
