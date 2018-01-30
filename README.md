@@ -133,6 +133,7 @@
   * [Why Math.min() > Math.max()?](http://stackoverflow.com/questions/8848779/why-math-min-math-max)
   * [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
   * [ECMAScript 5 Strict Mode, JSON, and More](https://johnresig.com/blog/ecmascript-5-strict-mode-json-and-more/)
+  * [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
 
 
 ### Argumented Reality
