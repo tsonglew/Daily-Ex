@@ -134,6 +134,9 @@
   * [A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
   * [ECMAScript 5 Strict Mode, JSON, and More](https://johnresig.com/blog/ecmascript-5-strict-mode-json-and-more/)
   * [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+  * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies#toc-consuming-promises)
+  * [JavaScript Promises: an Introduction ](https://developers.google.com/web/fundamentals/primers/promises)
+  * [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
 
 
 ### Argumented Reality
