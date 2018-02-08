@@ -137,6 +137,7 @@
   * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies#toc-consuming-promises)
   * [JavaScript Promises: an Introduction ](https://developers.google.com/web/fundamentals/primers/promises)
   * [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
+  * [An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps](https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4)
 
 
 ### Argumented Reality
