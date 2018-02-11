@@ -141,6 +141,7 @@
   * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies#toc-consuming-promises)
   * [JavaScript Promises: an Introduction ](https://developers.google.com/web/fundamentals/primers/promises)
   * [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
+  * [The Node.js Event Loop, Timers, and process.nextTick()](https://github.com/nodejs/node/blob/v6.x/doc/topics/event-loop-timers-and-nexttick.md)
 
 
 ### Argumented Reality
