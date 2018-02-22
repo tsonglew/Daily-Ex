@@ -142,6 +142,7 @@
   * [JavaScript Promises: an Introduction ](https://developers.google.com/web/fundamentals/primers/promises)
   * [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
   * [The Node.js Event Loop, Timers, and process.nextTick()](https://github.com/nodejs/node/blob/v6.x/doc/topics/event-loop-timers-and-nexttick.md)
+  * [ECMAScript 6 sets: union, intersection, difference](http://2ality.com/2015/01/es6-set-operations.html)
 
 
 ### Argumented Reality
