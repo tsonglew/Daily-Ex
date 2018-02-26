@@ -177,6 +177,7 @@
   * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
   * [Kaiming He -- Deep Residual Networks](http://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)
   * [Building a Neural Net from Scratch in Go](http://www.datadan.io/building-a-neural-net-from-scratch-in-go/)
+  * [基于时间序列检测算法的智能报警实现](https://juejin.im/post/5a7fa9176fb9a063435ed43f)
 
 
 ### HTTP and Server-Side
