@@ -180,6 +180,11 @@
   * [基于时间序列检测算法的智能报警实现](https://juejin.im/post/5a7fa9176fb9a063435ed43f)
 
 
+### Computer networks
+
+  * [Selective Repeat Protocol.](https://media.pearsoncmg.com/aw/ecs_kurose_compnetwork_7/cw/content/interactiveanimations/selective-repeat-protocol/index.html)
+
+
 ### HTTP and Server-Side
 
   * [Chrome扩展程序开发](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B/Chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.md)
