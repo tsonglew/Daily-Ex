@@ -234,6 +234,7 @@
   * [Remote Procedure Calls (RPC)](https://users.cs.cf.ac.uk/Dave.Marshall/C/node33.html)
   * [What's the difference between set, export and env and when should I use each?](https://askubuntu.com/questions/205688/whats-the-difference-between-set-export-and-env-and-when-should-i-use-each)
   * [深刻理解Linux进程间通信（IPC）](https://www.ibm.com/developerworks/cn/linux/l-ipc/)
+  * [Async IO on Linux: select, poll, and epoll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
 
 
 ### Vim
