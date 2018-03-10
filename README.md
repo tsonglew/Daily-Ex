@@ -205,6 +205,7 @@
   * [How does a relational database work](http://coding-geek.com/how-databases-work/)
   * [Redis基础、高级特性与性能调优](http://www.jianshu.com/p/2f14bc570563)
   * [Using pipelining to speedup Redis queries](https://redis.io/topics/pipelining)
+  * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 ### Haskell
 
