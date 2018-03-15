@@ -100,6 +100,7 @@
   * [Million WebSockets and Go](https://medium.com/@gobwas/million-websockets-and-go-cc58418460bb)
   * [Building a Real-time Collaborative Drawing App in Go](https://outcrawl.com/realtime-collaborative-drawing-go/)
   * [深入解析 Go 中 Slice 底层实现](http://www.cocoachina.com/programmer/20170831/20428.html)
+  * [Methods, Interfaces and Embedded Types in Go](https://www.ardanlabs.com/blog/2014/05/methods-interfaces-and-embedded-types.html)
 
 
 ### Git
