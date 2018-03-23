@@ -11,6 +11,7 @@
   * [Must-See Tech Talks for Every Programmer](http://www.ybrikman.com/writing/2014/05/29/must-see-tech-talks-for-every-programmer/)
   * [浅谈 MVC、MVP 和 MVVM 架构模式](http://draveness.me/mvx.html)
   * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
+  * [Google Developers Web Fundamental](https://developers.google.com/web/fundamentals)
 
 
 # Students' Resources
