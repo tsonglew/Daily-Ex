@@ -102,6 +102,7 @@
   * [Building a Real-time Collaborative Drawing App in Go](https://outcrawl.com/realtime-collaborative-drawing-go/)
   * [深入解析 Go 中 Slice 底层实现](http://www.cocoachina.com/programmer/20170831/20428.html)
   * [Methods, Interfaces and Embedded Types in Go](https://www.ardanlabs.com/blog/2014/05/methods-interfaces-and-embedded-types.html)
+  * [Macro View of Map Internals In Go](https://www.ardanlabs.com/blog/2013/12/macro-view-of-map-internals-in-go.html)
 
 
 ### Git
