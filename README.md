@@ -267,6 +267,7 @@
   * [密码算法详解——AES](http://www.mamicode.com/info-detail-514466.html)
   * [RESTful 架构风格下的 4 大常见安全问题](http://blog.jobbole.com/109610/)
   * [对 CBC 模式的一些攻击](http://quant67.com/post/crypt/cbc-crack/attack-on-cbc.html)
+  * [A PAINLESS GUIDE TO CRC ERROR DETECTION ALGORITHMS](http://www.ross.net/crc/download/crc_v3.txt)
 
 ### Algorithms
 
