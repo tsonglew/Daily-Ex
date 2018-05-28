@@ -1,6 +1,7 @@
 .vscode
 a.out
 *.pyc
+*.class
 
 # =============== #
 # Unity generated #
