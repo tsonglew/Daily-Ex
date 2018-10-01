@@ -2,6 +2,7 @@
 a.out
 *.pyc
 *.class
+.idea
 
 # =============== #
 # Unity generated #
