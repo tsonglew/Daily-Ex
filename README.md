@@ -133,8 +133,7 @@
 
 ### JavaScript
 
-  * [JavaScript运算符：== VS. ===](http://web.jobbole.com/88186/)
-  * [Arrays in JavaScript](http://www.2ality.com/2012/12/arrays.html)
+  * [SurviceJS](https://survivejs.com)
   * [JavaScript原型详解](http://gold.xitu.io/post/57f336a9816dfa00568f300c)
   * [Essential Electron](http://jlord.us/essential-electron/)
   * [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
@@ -218,6 +217,7 @@
 
 ### Unix & Linux
 
+  * [Linux From Scratch](http://www.linuxfromscratch.org)
   * [Linux 技巧：让进程在后台可靠运行的几种方法](https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/)
   * [linux中强大且常用命令：find、grep](http://blog.jobbole.com/107458/)
   * [SSH原理与运用（一）：远程登录](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)
