@@ -78,6 +78,7 @@
 
 ### Golang
 
+  * [Go 微服务实战汇总](https://gocn.vip/question/1999)
   * [The Go Compiler](https://www.codeschool.com/blog/2016/10/05/the-go-compiler/)
   * [Why Go?](https://www.codeschool.com/blog/2016/09/28/why-go/)
   * [Why Go Is Not Good](http://yager.io/programming/go.html)
